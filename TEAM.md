@@ -8,7 +8,7 @@
 | Qian | Data Extraction — Web Scraping with Playwright | `src/scraper.py`, `tests/test_scraper_parser.py` |
 | Balnur | Data Cleaning and Preprocessing with Pandas | `src/cleaner.py`, `tests/test_cleaner.py` |
 | Nurdaulet | Data Storage and Database Management with SQLite | `src/loader.py`, `sql/create_tables.sql`, `tests/test_loader.py` |
-| Kundyz | Workflow Automation, Docker, Integration and Data Analysis | `dags/airflow_dag.py`, `Dockerfile`, `docker-compose.yaml`, `src/analysis.py`, `README.md`, `TEAM.md` |
+| Kundyz | Workflow Automation, Docker, Integration and Data Analysis | `dags/airflow_dag.py`, `Dockerfile`, `docker-compose.yaml`, `src/analysis.py`|
 
 ## GitHub Workflow
 
