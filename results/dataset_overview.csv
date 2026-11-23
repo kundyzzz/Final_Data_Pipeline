@@ -1,0 +1,2 @@
+total_products,unique_skus,unique_brands,unique_categories,average_price,median_price,minimum_price,maximum_price,average_rating,in_stock_pct
+500,500,20,15,104.10,105.23,5.12,204.86,4.02,85.40
