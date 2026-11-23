@@ -1,0 +1,63 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating system
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Airflow local files
+airflow.cfg
+airflow.db
+airflow-webserver.pid
+standalone_admin_password.txt
+airflow_metadata/
+airflow_logs/
+
+# SQLite databases
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Allow final SQLite database
+!data/output.db
+
+# Generated test data and debug files
+data/*_test.csv
+data/*_test.db
+data/scraper_debug.png
+
+# Temporary files
+*.tmp
+*.bak
+*.zip
+~$*.docx
+
+# Personal instructions
+GUIDE.txt
+HOW_TO_UPLOAD.md
+FILE_LIST.txt
+package_manifest.json
+study_only/
+upload_to_repo/

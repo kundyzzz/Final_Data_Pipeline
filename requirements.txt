@@ -1,0 +1,5 @@
+pandas==2.2.3
+playwright==1.51.0
+pytest==8.3.5
+matplotlib==3.10.7
+# Airflow is installed in the official Docker base image.
