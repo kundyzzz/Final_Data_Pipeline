@@ -1,0 +1,501 @@
+﻿sku,name,brand,category,price,original_price,rating,availability,source_url,scraped_at
+SKU-HEA-0001,Lightweight Probiotics,SoundWave,Health,155.62,206.69,4,in_stock,https://scrapingsandbox.com/product/1,2026-11-23T19:41:19.142361+00:00
+SKU-ELE-0002,Wireless LED Desk Lamp,SoundWave,Electronics,145.40,210.01,4.6,out_of_stock,https://scrapingsandbox.com/product/2,2026-11-23T19:41:19.142422+00:00
+SKU-FOO-0003,Deluxe Tea Collection,StyleCraft,Food & Beverage,185.01,313.98,3.5,in_stock,https://scrapingsandbox.com/product/3,2026-11-23T19:41:19.142444+00:00
+SKU-AUT-0004,Essential Tire Gauge,TechVault,Automotive,70.86,,3.6,out_of_stock,https://scrapingsandbox.com/product/4,2026-11-23T19:41:19.142464+00:00
+SKU-ART-0005,Smart Carving Tools,SparkleBox,Art,97.13,,3.5,in_stock,https://scrapingsandbox.com/product/5,2026-11-23T19:41:19.142482+00:00
+SKU-PET-0006,Professional Dog Food,StyleCraft,Pet Supplies,145.40,,4.6,in_stock,https://scrapingsandbox.com/product/6,2026-11-23T19:41:19.142500+00:00
+SKU-AUT-0007,Smart Car Wash Kit,UrbanThread,Automotive,139.94,173.26,3,in_stock,https://scrapingsandbox.com/product/7,2026-11-23T19:41:19.142517+00:00
+SKU-ELE-0008,Premium Bluetooth Speaker,AutoParts Pro,Electronics,108.99,,4.5,in_stock,https://scrapingsandbox.com/product/8,2026-11-23T19:41:19.142533+00:00
+SKU-ELE-0009,Vintage Tablet Stand,GlowUp,Electronics,44.15,69.14,3.4,in_stock,https://scrapingsandbox.com/product/9,2026-11-23T19:41:19.142550+00:00
+SKU-ART-0010,Portable Marker Pack,VitalLife,Art,193.91,258.48,4.2,in_stock,https://scrapingsandbox.com/product/10,2026-11-23T19:41:19.142568+00:00
+SKU-ART-0011,Professional Brush Kit,AutoParts Pro,Art,55.29,,3.6,out_of_stock,https://scrapingsandbox.com/product/11,2026-11-23T19:41:19.142585+00:00
+SKU-TOY-0012,Smart Play Dough,AutoParts Pro,Toys,123.50,198.84,3.5,in_stock,https://scrapingsandbox.com/product/12,2026-11-23T19:41:19.142602+00:00
+SKU-MUS-0013,Premium Vinyl Record,DeskMate,Music,69.22,,4.5,in_stock,https://scrapingsandbox.com/product/13,2026-11-23T19:41:19.142619+00:00
+SKU-PET-0014,Professional Aquarium Plant,TechVault,Pet Supplies,71.68,100.32,4.6,in_stock,https://scrapingsandbox.com/product/14,2026-11-23T19:41:19.142636+00:00
+SKU-TOY-0015,Vintage Stuffed Animal,HomeNest,Toys,124.84,176.26,5,in_stock,https://scrapingsandbox.com/product/15,2026-11-23T19:41:19.142654+00:00
+SKU-FOO-0016,Eco-Friendly Protein Bar,UrbanThread,Food & Beverage,76.27,,3.9,in_stock,https://scrapingsandbox.com/product/16,2026-11-23T19:41:19.142671+00:00
+SKU-OFF-0017,Lightweight Paper Clips,UrbanThread,Office Supplies,156.17,,4.3,in_stock,https://scrapingsandbox.com/product/17,2026-11-23T19:41:19.142687+00:00
+SKU-MUS-0018,Professional Guitar Strings,NovaTech,Music,159.77,264.22,4.1,in_stock,https://scrapingsandbox.com/product/18,2026-11-23T19:41:19.142704+00:00
+SKU-BOO-0019,Premium Business Book,PageTurner,Books,175.14,,4.9,in_stock,https://scrapingsandbox.com/product/19,2026-11-23T19:41:19.142720+00:00
+SKU-JEW-0020,Handcrafted Locket,DeskMate,Jewelry,106.84,,4.2,in_stock,https://scrapingsandbox.com/product/20,2026-11-23T19:41:19.142737+00:00
+SKU-HEA-0021,Compact Heating Pad,NovaTech,Health,70.83,,4.8,in_stock,https://scrapingsandbox.com/product/21,2026-11-23T19:41:19.142753+00:00
+SKU-AUT-0022,Advanced Brake Pad,PlayZone,Automotive,108.45,,4.3,in_stock,https://scrapingsandbox.com/product/22,2026-11-23T19:41:19.142769+00:00
+SKU-AUT-0023,Heavy-Duty Seat Cover,ProGear,Automotive,30.36,,4.2,in_stock,https://scrapingsandbox.com/product/23,2026-11-23T19:41:19.142785+00:00
+SKU-ART-0024,Heavy-Duty Palette,TasteBud,Art,179.54,,3.7,in_stock,https://scrapingsandbox.com/product/24,2026-11-23T19:41:19.142801+00:00
+SKU-TOY-0025,Vintage Nerf Gun,CozyCorner,Toys,107.53,182.58,3.6,in_stock,https://scrapingsandbox.com/product/25,2026-11-23T19:41:19.142818+00:00
+SKU-OFF-0026,Pro Stamp Set,CozyCorner,Office Supplies,16.25,23.56,4.6,in_stock,https://scrapingsandbox.com/product/26,2026-11-23T19:41:19.142835+00:00
+SKU-AUT-0027,Premium Air Freshener,VitalLife,Automotive,165.03,,4.8,out_of_stock,https://scrapingsandbox.com/product/27,2026-11-23T19:41:19.142851+00:00
+SKU-OFF-0028,Heavy-Duty Label Maker,PawPal,Office Supplies,195.41,293.23,3.2,in_stock,https://scrapingsandbox.com/product/28,2026-11-23T19:41:19.142869+00:00
+SKU-HEA-0029,Lightweight Blood Pressure Monitor,FitPro,Health,170.16,,4.9,out_of_stock,https://scrapingsandbox.com/product/29,2026-11-23T19:41:19.142885+00:00
+SKU-ELE-0030,Ultra USB-C Hub,HomeNest,Electronics,110.55,,3.9,in_stock,https://scrapingsandbox.com/product/30,2026-11-23T19:41:19.142902+00:00
+SKU-BOO-0031,Premium Travel Guide,SoundWave,Books,133.28,,3.6,in_stock,https://scrapingsandbox.com/product/31,2026-11-23T19:41:19.142918+00:00
+SKU-MUS-0032,Vintage Speaker Cable,ProGear,Music,49.19,,3.4,out_of_stock,https://scrapingsandbox.com/product/32,2026-11-23T19:41:19.142934+00:00
+SKU-HEA-0033,Classic First Aid Kit,VitalLife,Health,15.69,,4.1,in_stock,https://scrapingsandbox.com/product/33,2026-11-23T19:41:19.142950+00:00
+SKU-SPO-0034,Eco-Friendly Grip Gloves,StyleCraft,Sports,193.06,,3.7,out_of_stock,https://scrapingsandbox.com/product/34,2026-11-23T19:41:19.142965+00:00
+SKU-JEW-0035,Vintage Hoop Earrings,TasteBud,Jewelry,27.37,,3.1,in_stock,https://scrapingsandbox.com/product/35,2026-11-23T19:41:19.142981+00:00
+SKU-FOO-0036,Modern Nut Mix,NovaTech,Food & Beverage,31.27,38.53,3.9,in_stock,https://scrapingsandbox.com/product/36,2026-11-23T19:41:19.142997+00:00
+SKU-CLO-0037,Handcrafted Flannel Shirt,SparkleBox,Clothing,164.84,,4.4,in_stock,https://scrapingsandbox.com/product/37,2026-11-23T19:41:19.143013+00:00
+SKU-HEA-0038,Lightweight Vitamin Pack,VitalLife,Health,148.91,,4.6,in_stock,https://scrapingsandbox.com/product/38,2026-11-23T19:41:19.143029+00:00
+SKU-ART-0039,Compact Canvas,NovaTech,Art,204.29,279.96,4.7,in_stock,https://scrapingsandbox.com/product/39,2026-11-23T19:41:19.143046+00:00
+SKU-SPO-0040,Professional Skipping Rope,SoundWave,Sports,31.33,,3.4,in_stock,https://scrapingsandbox.com/product/40,2026-11-23T19:41:19.143061+00:00
+SKU-BOO-0041,Ultra Cookbook,PlayZone,Books,104.27,,3.3,in_stock,https://scrapingsandbox.com/product/41,2026-11-23T19:41:19.143077+00:00
+SKU-ELE-0042,Vintage Microphone,PageTurner,Electronics,27.42,,3.3,out_of_stock,https://scrapingsandbox.com/product/42,2026-11-23T19:41:19.143092+00:00
+SKU-ART-0043,Limited Edition Calligraphy Set,NovaTech,Art,44.65,,4.1,in_stock,https://scrapingsandbox.com/product/43,2026-11-23T19:41:19.143108+00:00
+SKU-BOO-0044,Vintage Art Book,HomeNest,Books,91.83,,4.3,in_stock,https://scrapingsandbox.com/product/44,2026-11-23T19:41:19.143124+00:00
+SKU-JEW-0045,Handcrafted Chain,CozyCorner,Jewelry,13.60,,3.4,in_stock,https://scrapingsandbox.com/product/45,2026-11-23T19:41:19.143140+00:00
+SKU-TOY-0046,Heavy-Duty Play Dough,DeskMate,Toys,50.60,61.74,4.5,in_stock,https://scrapingsandbox.com/product/46,2026-11-23T19:41:19.143156+00:00
+SKU-BEA-0047,Classic Sunscreen,DeskMate,Beauty,157.22,208.55,4.1,out_of_stock,https://scrapingsandbox.com/product/47,2026-11-23T19:41:19.143172+00:00
+SKU-SPO-0048,Smart Ab Wheel,FitPro,Sports,102.86,129.16,3.6,in_stock,https://scrapingsandbox.com/product/48,2026-11-23T19:41:19.143188+00:00
+SKU-MUS-0049,Ultra Vinyl Record,GlowUp,Music,158.97,222.33,3.7,in_stock,https://scrapingsandbox.com/product/49,2026-11-23T19:41:19.143256+00:00
+SKU-FOO-0050,Organic Olive Oil,PlayZone,Food & Beverage,52.91,70.04,3.2,in_stock,https://scrapingsandbox.com/product/50,2026-11-23T19:41:19.143287+00:00
+SKU-CLO-0051,Premium Belt,MindBooks,Clothing,67.17,84.36,4.6,in_stock,https://scrapingsandbox.com/product/51,2026-11-23T19:41:19.143305+00:00
+SKU-BOO-0052,Advanced Journal,VitalLife,Books,84.44,,3.4,in_stock,https://scrapingsandbox.com/product/52,2026-11-23T19:41:19.143322+00:00
+SKU-FOO-0053,Wireless Jam Collection,UrbanThread,Food & Beverage,175.09,,3.7,out_of_stock,https://scrapingsandbox.com/product/53,2026-11-23T19:41:19.143339+00:00
+SKU-BOO-0054,Portable Children's Book,FitPro,Books,141.90,,3.3,in_stock,https://scrapingsandbox.com/product/54,2026-11-23T19:41:19.143355+00:00
+SKU-MUS-0055,Professional MIDI Controller,SoundWave,Music,79.85,121.02,4.2,in_stock,https://scrapingsandbox.com/product/55,2026-11-23T19:41:19.143371+00:00
+SKU-ELE-0056,Essential Ring Light,TechVault,Electronics,117.84,185.18,4,in_stock,https://scrapingsandbox.com/product/56,2026-11-23T19:41:19.143387+00:00
+SKU-HEA-0057,Essential Thermometer,PageTurner,Health,81.15,,3.4,in_stock,https://scrapingsandbox.com/product/57,2026-11-23T19:41:19.143403+00:00
+SKU-OFF-0058,Advanced File Folder,StyleCraft,Office Supplies,156.62,207.19,3.5,out_of_stock,https://scrapingsandbox.com/product/58,2026-11-23T19:41:19.143419+00:00
+SKU-CLO-0059,Advanced Watch,FitPro,Clothing,45.33,70.34,3.3,in_stock,https://scrapingsandbox.com/product/59,2026-11-23T19:41:19.143435+00:00
+SKU-TOY-0060,Eco-Friendly Puzzle Set,FitPro,Toys,158.96,,4.1,in_stock,https://scrapingsandbox.com/product/60,2026-11-23T19:41:19.143451+00:00
+SKU-AUT-0061,Essential Spark Plug,NovaTech,Automotive,180.29,,3.4,in_stock,https://scrapingsandbox.com/product/61,2026-11-23T19:41:19.143466+00:00
+SKU-ELE-0062,Compact Smart Watch,HomeNest,Electronics,102.16,,4.4,out_of_stock,https://scrapingsandbox.com/product/62,2026-11-23T19:41:19.143481+00:00
+SKU-CLO-0063,Professional Watch,StyleCraft,Clothing,100.01,152.56,3.1,in_stock,https://scrapingsandbox.com/product/63,2026-11-23T19:41:19.143496+00:00
+SKU-HEA-0064,Professional Thermometer,UrbanThread,Health,199.47,315.88,3.6,out_of_stock,https://scrapingsandbox.com/product/64,2026-11-23T19:41:19.143512+00:00
+SKU-PET-0065,Classic Litter Box,SparkleBox,Pet Supplies,53.01,,3.1,out_of_stock,https://scrapingsandbox.com/product/65,2026-11-23T19:41:19.143527+00:00
+SKU-AUT-0066,Vintage Trunk Organizer,StyleCraft,Automotive,182.08,231.24,3.7,in_stock,https://scrapingsandbox.com/product/66,2026-11-23T19:41:19.143542+00:00
+SKU-JEW-0067,Lightweight Toe Ring,FitPro,Jewelry,188.36,,4.4,in_stock,https://scrapingsandbox.com/product/67,2026-11-23T19:41:19.143558+00:00
+SKU-OFF-0068,Wireless Stamp Set,GlowUp,Office Supplies,45.66,,4.5,in_stock,https://scrapingsandbox.com/product/68,2026-11-23T19:41:19.143573+00:00
+SKU-CLO-0069,Lightweight Cardigan,HomeNest,Clothing,11.02,,4.3,in_stock,https://scrapingsandbox.com/product/69,2026-11-23T19:41:19.143588+00:00
+SKU-BEA-0070,Classic Moisturizer,HomeNest,Beauty,143.00,181.21,4.4,in_stock,https://scrapingsandbox.com/product/70,2026-11-23T19:41:19.143604+00:00
+SKU-ART-0071,Classic Canvas,AutoParts Pro,Art,21.25,34.51,3.6,in_stock,https://scrapingsandbox.com/product/71,2026-11-23T19:41:19.143620+00:00
+SKU-MUS-0072,Handcrafted Speaker Cable,PawPal,Music,70.07,,3.2,in_stock,https://scrapingsandbox.com/product/72,2026-11-23T19:41:19.143635+00:00
+SKU-MUS-0073,Advanced Pick Set,TechVault,Music,128.87,,4.2,in_stock,https://scrapingsandbox.com/product/73,2026-11-23T19:41:19.143650+00:00
+SKU-MUS-0074,Lightweight Tuner,VitalLife,Music,148.14,237.51,3.4,out_of_stock,https://scrapingsandbox.com/product/74,2026-11-23T19:41:19.143666+00:00
+SKU-OFF-0075,Limited Edition File Folder,ProGear,Office Supplies,55.52,75.48,4.4,in_stock,https://scrapingsandbox.com/product/75,2026-11-23T19:41:19.143683+00:00
+SKU-CLO-0076,Lightweight Socks Pack,PawPal,Clothing,187.14,,3.7,out_of_stock,https://scrapingsandbox.com/product/76,2026-11-23T19:41:19.143698+00:00
+SKU-FOO-0077,Modern Coffee Beans,DeskMate,Food & Beverage,6.22,7.76,4.3,in_stock,https://scrapingsandbox.com/product/77,2026-11-23T19:41:19.143714+00:00
+SKU-AUT-0078,Wireless Car Vacuum,PawPal,Automotive,42.41,,4.8,in_stock,https://scrapingsandbox.com/product/78,2026-11-23T19:41:19.143731+00:00
+SKU-HEA-0079,Classic Pill Organizer,SoundWave,Health,141.59,187.55,4.8,in_stock,https://scrapingsandbox.com/product/79,2026-11-23T19:41:19.143747+00:00
+SKU-BOO-0080,Portable Planner,VitalLife,Books,16.64,,3.5,in_stock,https://scrapingsandbox.com/product/80,2026-11-23T19:41:19.143762+00:00
+SKU-HEA-0081,Eco-Friendly Blood Pressure Monitor,AutoParts Pro,Health,115.64,,3.8,in_stock,https://scrapingsandbox.com/product/81,2026-11-23T19:41:19.143778+00:00
+SKU-CLO-0082,Portable Sneakers,PlayZone,Clothing,24.83,,3.5,in_stock,https://scrapingsandbox.com/product/82,2026-11-23T19:41:19.143792+00:00
+SKU-JEW-0083,Ultra Locket,MindBooks,Jewelry,158.09,223.34,3.6,in_stock,https://scrapingsandbox.com/product/83,2026-11-23T19:41:19.143809+00:00
+SKU-HEA-0084,Professional Vitamin Pack,VitalLife,Health,90.20,,4.7,in_stock,https://scrapingsandbox.com/product/84,2026-11-23T19:41:19.143825+00:00
+SKU-HEA-0085,Ultra First Aid Kit,PlayZone,Health,56.04,90.93,3.3,in_stock,https://scrapingsandbox.com/product/85,2026-11-23T19:41:19.143841+00:00
+SKU-OFF-0086,Vintage Highlighters,MindBooks,Office Supplies,195.45,,4.2,in_stock,https://scrapingsandbox.com/product/86,2026-11-23T19:41:19.143857+00:00
+SKU-MUS-0087,Pro Headphones,TechVault,Music,86.34,,3.6,in_stock,https://scrapingsandbox.com/product/87,2026-11-23T19:41:19.143872+00:00
+SKU-HOM-0088,Organic Clock,ProGear,Home & Garden,90.92,144.05,4.2,in_stock,https://scrapingsandbox.com/product/88,2026-11-23T19:41:19.143889+00:00
+SKU-ELE-0089,Wireless Smart Watch,AutoParts Pro,Electronics,27.30,,4.8,out_of_stock,https://scrapingsandbox.com/product/89,2026-11-23T19:41:19.143907+00:00
+SKU-MUS-0090,Wireless Headphones,ProGear,Music,125.33,,3,in_stock,https://scrapingsandbox.com/product/90,2026-11-23T19:41:19.143921+00:00
+SKU-AUT-0091,Premium Seat Cover,UrbanThread,Automotive,14.00,,3.5,in_stock,https://scrapingsandbox.com/product/91,2026-11-23T19:41:19.143935+00:00
+SKU-HOM-0092,Advanced Napkin Holder,SoundWave,Home & Garden,170.01,285.17,4,in_stock,https://scrapingsandbox.com/product/92,2026-11-23T19:41:19.143951+00:00
+SKU-AUT-0093,Lightweight Battery,AutoParts Pro,Automotive,93.48,,4.1,in_stock,https://scrapingsandbox.com/product/93,2026-11-23T19:41:19.143966+00:00
+SKU-CLO-0094,Compact Joggers,SoundWave,Clothing,35.16,,4.8,in_stock,https://scrapingsandbox.com/product/94,2026-11-23T19:41:19.143981+00:00
+SKU-FOO-0095,Heavy-Duty Olive Oil,ProGear,Food & Beverage,152.94,205.52,3.1,out_of_stock,https://scrapingsandbox.com/product/95,2026-11-23T19:41:19.143996+00:00
+SKU-JEW-0096,Smart Bracelet,SoundWave,Jewelry,151.07,,4.3,in_stock,https://scrapingsandbox.com/product/96,2026-11-23T19:41:19.144011+00:00
+SKU-AUT-0097,Deluxe Wiper Blade,UrbanThread,Automotive,121.64,,4.8,in_stock,https://scrapingsandbox.com/product/97,2026-11-23T19:41:19.144026+00:00
+SKU-FOO-0098,Modern Popcorn Pack,DeskMate,Food & Beverage,147.51,,3.7,in_stock,https://scrapingsandbox.com/product/98,2026-11-23T19:41:19.144041+00:00
+SKU-HEA-0099,Advanced Iron Supplement,PageTurner,Health,146.78,,3.8,in_stock,https://scrapingsandbox.com/product/99,2026-11-23T19:41:19.144057+00:00
+SKU-JEW-0100,Eco-Friendly Bangle,NovaTech,Jewelry,51.11,,4.3,in_stock,https://scrapingsandbox.com/product/100,2026-11-23T19:41:19.144071+00:00
+SKU-CLO-0101,Essential Sunglasses,FitPro,Clothing,144.83,,3.2,in_stock,https://scrapingsandbox.com/product/101,2026-11-23T19:41:19.144087+00:00
+SKU-MUS-0102,Heavy-Duty Vinyl Record,TechVault,Music,194.89,273.23,3.4,in_stock,https://scrapingsandbox.com/product/102,2026-11-23T19:41:19.144103+00:00
+SKU-HOM-0103,Smart Storage Basket,TasteBud,Home & Garden,7.55,,4.9,in_stock,https://scrapingsandbox.com/product/103,2026-11-23T19:41:19.144118+00:00
+SKU-TOY-0104,Modern Puzzle Set,VitalLife,Toys,146.64,185.84,3.6,in_stock,https://scrapingsandbox.com/product/104,2026-11-23T19:41:19.144134+00:00
+SKU-CLO-0105,Smart Scarf,MindBooks,Clothing,109.34,,3.1,in_stock,https://scrapingsandbox.com/product/105,2026-11-23T19:41:19.144149+00:00
+SKU-PET-0106,Vintage Collar,GlowUp,Pet Supplies,181.46,,3.3,in_stock,https://scrapingsandbox.com/product/106,2026-11-23T19:41:19.144164+00:00
+SKU-CLO-0107,Compact Sneakers,CozyCorner,Clothing,74.48,,4.5,in_stock,https://scrapingsandbox.com/product/107,2026-11-23T19:41:19.144179+00:00
+SKU-CLO-0108,Deluxe Shorts,AutoParts Pro,Clothing,192.23,,3.3,in_stock,https://scrapingsandbox.com/product/108,2026-11-23T19:41:19.144195+00:00
+SKU-SPO-0109,Portable Sweatband,ProGear,Sports,35.04,,4.5,in_stock,https://scrapingsandbox.com/product/109,2026-11-23T19:41:19.144269+00:00
+SKU-SPO-0110,Classic Tennis Balls,UrbanThread,Sports,83.72,,4.8,in_stock,https://scrapingsandbox.com/product/110,2026-11-23T19:41:19.144289+00:00
+SKU-MUS-0111,Smart Pop Filter,CozyCorner,Music,43.29,,3.3,in_stock,https://scrapingsandbox.com/product/111,2026-11-23T19:41:19.144305+00:00
+SKU-MUS-0112,Advanced Strap,CozyCorner,Music,94.54,,4.6,in_stock,https://scrapingsandbox.com/product/112,2026-11-23T19:41:19.144320+00:00
+SKU-SPO-0113,Deluxe Ab Wheel,PawPal,Sports,36.47,,4.7,in_stock,https://scrapingsandbox.com/product/113,2026-11-23T19:41:19.144335+00:00
+SKU-MUS-0114,Smart Capo,PageTurner,Music,107.29,,4.4,in_stock,https://scrapingsandbox.com/product/114,2026-11-23T19:41:19.144351+00:00
+SKU-OFF-0115,Handcrafted Paper Clips,GlowUp,Office Supplies,155.36,,3.7,in_stock,https://scrapingsandbox.com/product/115,2026-11-23T19:41:19.144366+00:00
+SKU-OFF-0116,Eco-Friendly Tape Dispenser,AutoParts Pro,Office Supplies,105.07,129.33,4.2,in_stock,https://scrapingsandbox.com/product/116,2026-11-23T19:41:19.144382+00:00
+SKU-HEA-0117,Eco-Friendly Thermometer,SparkleBox,Health,62.03,,4.6,in_stock,https://scrapingsandbox.com/product/117,2026-11-23T19:41:19.144397+00:00
+SKU-JEW-0118,Essential Stud Earrings,FitPro,Jewelry,105.39,,4.6,in_stock,https://scrapingsandbox.com/product/118,2026-11-23T19:41:19.144411+00:00
+SKU-HEA-0119,Lightweight Protein Powder,VitalLife,Health,119.40,,3.9,in_stock,https://scrapingsandbox.com/product/119,2026-11-23T19:41:19.144426+00:00
+SKU-CLO-0120,Smart Cardigan,TasteBud,Clothing,28.73,,5,in_stock,https://scrapingsandbox.com/product/120,2026-11-23T19:41:19.144441+00:00
+SKU-HOM-0121,Organic Mug Set,VitalLife,Home & Garden,150.77,,4.2,in_stock,https://scrapingsandbox.com/product/121,2026-11-23T19:41:19.144457+00:00
+SKU-PET-0122,Advanced Catnip,GlowUp,Pet Supplies,183.75,254.78,4.8,in_stock,https://scrapingsandbox.com/product/122,2026-11-23T19:41:19.144473+00:00
+SKU-BOO-0123,Handcrafted Business Book,StyleCraft,Books,203.17,306.75,4.9,in_stock,https://scrapingsandbox.com/product/123,2026-11-23T19:41:19.144489+00:00
+SKU-TOY-0124,Ultra Train Set,TasteBud,Toys,143.16,,4.1,in_stock,https://scrapingsandbox.com/product/124,2026-11-23T19:41:19.144505+00:00
+SKU-JEW-0125,Advanced Brooch,DeskMate,Jewelry,177.99,,4.1,in_stock,https://scrapingsandbox.com/product/125,2026-11-23T19:41:19.144520+00:00
+SKU-HOM-0126,Classic Wall Art,ProGear,Home & Garden,154.50,,4.8,in_stock,https://scrapingsandbox.com/product/126,2026-11-23T19:41:19.144535+00:00
+SKU-BOO-0127,Premium Mystery Novel,MindBooks,Books,26.81,44.09,4.6,in_stock,https://scrapingsandbox.com/product/127,2026-11-23T19:41:19.144550+00:00
+SKU-CLO-0128,Eco-Friendly Flannel Shirt,ProGear,Clothing,75.16,,4.4,in_stock,https://scrapingsandbox.com/product/128,2026-11-23T19:41:19.144566+00:00
+SKU-HEA-0129,Lightweight Ice Pack,MindBooks,Health,191.92,317.09,3.4,in_stock,https://scrapingsandbox.com/product/129,2026-11-23T19:41:19.144582+00:00
+SKU-TOY-0130,Portable Bubble Machine,CozyCorner,Toys,59.90,99.82,3.9,out_of_stock,https://scrapingsandbox.com/product/130,2026-11-23T19:41:19.144597+00:00
+SKU-BEA-0131,Lightweight Hand Cream,HomeNest,Beauty,188.36,286.26,4.4,in_stock,https://scrapingsandbox.com/product/131,2026-11-23T19:41:19.144613+00:00
+SKU-MUS-0132,Classic Capo,VitalLife,Music,105.87,,4.3,in_stock,https://scrapingsandbox.com/product/132,2026-11-23T19:41:19.144629+00:00
+SKU-AUT-0133,Professional Car Charger,StyleCraft,Automotive,27.68,33.92,4.3,in_stock,https://scrapingsandbox.com/product/133,2026-11-23T19:41:19.144644+00:00
+SKU-BEA-0134,Eco-Friendly Sunscreen,AutoParts Pro,Beauty,141.25,185.59,4.6,in_stock,https://scrapingsandbox.com/product/134,2026-11-23T19:41:19.144660+00:00
+SKU-JEW-0135,Portable Chain,SparkleBox,Jewelry,141.26,,4.7,in_stock,https://scrapingsandbox.com/product/135,2026-11-23T19:41:19.144675+00:00
+SKU-CLO-0136,Advanced Watch,FitPro,Clothing,69.96,,4.3,out_of_stock,https://scrapingsandbox.com/product/136,2026-11-23T19:41:19.144730+00:00
+SKU-OFF-0137,Modern Stamp Set,PageTurner,Office Supplies,55.31,,4.4,out_of_stock,https://scrapingsandbox.com/product/137,2026-11-23T19:41:19.144760+00:00
+SKU-MUS-0138,Limited Edition Pick Set,MindBooks,Music,10.84,,4.7,in_stock,https://scrapingsandbox.com/product/138,2026-11-23T19:41:19.144775+00:00
+SKU-TOY-0139,Ultra Slime Kit,GlowUp,Toys,110.41,181.73,3.9,in_stock,https://scrapingsandbox.com/product/139,2026-11-23T19:41:19.144793+00:00
+SKU-HEA-0140,Portable Essential Oil,NovaTech,Health,192.76,,3.5,in_stock,https://scrapingsandbox.com/product/140,2026-11-23T19:41:19.144808+00:00
+SKU-HEA-0141,Limited Edition Melatonin,GlowUp,Health,127.15,,4.9,in_stock,https://scrapingsandbox.com/product/141,2026-11-23T19:41:19.144824+00:00
+SKU-HOM-0142,Organic Napkin Holder,StyleCraft,Home & Garden,161.36,238.88,4.6,out_of_stock,https://scrapingsandbox.com/product/142,2026-11-23T19:41:19.144840+00:00
+SKU-CLO-0143,Heavy-Duty Belt,AutoParts Pro,Clothing,150.56,237.10,3.3,out_of_stock,https://scrapingsandbox.com/product/143,2026-11-23T19:41:19.144855+00:00
+SKU-BOO-0144,Organic Self-Help Guide,HomeNest,Books,67.62,,4.4,in_stock,https://scrapingsandbox.com/product/144,2026-11-23T19:41:19.144870+00:00
+SKU-OFF-0145,Premium Stamp Set,SparkleBox,Office Supplies,193.49,,4.9,in_stock,https://scrapingsandbox.com/product/145,2026-11-23T19:41:19.144885+00:00
+SKU-JEW-0146,Vintage Body Chain,CozyCorner,Jewelry,126.03,,5,in_stock,https://scrapingsandbox.com/product/146,2026-11-23T19:41:19.144900+00:00
+SKU-ELE-0147,Deluxe LED Desk Lamp,DeskMate,Electronics,58.45,,4.7,in_stock,https://scrapingsandbox.com/product/147,2026-11-23T19:41:19.144915+00:00
+SKU-SPO-0148,Eco-Friendly Yoga Mat,GlowUp,Sports,68.34,105.17,4.1,in_stock,https://scrapingsandbox.com/product/148,2026-11-23T19:41:19.144930+00:00
+SKU-TOY-0149,Handcrafted Building Blocks,GlowUp,Toys,153.64,255.83,4.4,in_stock,https://scrapingsandbox.com/product/149,2026-11-23T19:41:19.144946+00:00
+SKU-ELE-0150,Professional Tablet Stand,TechVault,Electronics,194.35,,3.1,out_of_stock,https://scrapingsandbox.com/product/150,2026-11-23T19:41:19.145016+00:00
+SKU-FOO-0151,Vintage Beef Jerky,PageTurner,Food & Beverage,120.07,197.95,4.2,in_stock,https://scrapingsandbox.com/product/151,2026-11-23T19:41:19.145033+00:00
+SKU-ART-0152,Premium Carving Tools,HomeNest,Art,29.14,38.49,3.3,in_stock,https://scrapingsandbox.com/product/152,2026-11-23T19:41:19.145048+00:00
+SKU-PET-0153,Smart Aquarium Plant,PageTurner,Pet Supplies,38.06,61.10,4.7,in_stock,https://scrapingsandbox.com/product/153,2026-11-23T19:41:19.145064+00:00
+SKU-CLO-0154,Handcrafted Watch,AutoParts Pro,Clothing,53.69,,4,in_stock,https://scrapingsandbox.com/product/154,2026-11-23T19:41:19.145079+00:00
+SKU-PET-0155,Vintage Bird Feeder,SoundWave,Pet Supplies,88.67,108.37,4.8,in_stock,https://scrapingsandbox.com/product/155,2026-11-23T19:41:19.145095+00:00
+SKU-HOM-0156,Organic Plant Pot,ArtisanHub,Home & Garden,117.02,,3.9,in_stock,https://scrapingsandbox.com/product/156,2026-11-23T19:41:19.145110+00:00
+SKU-BEA-0157,Eco-Friendly Eye Cream,MindBooks,Beauty,123.02,,3.5,in_stock,https://scrapingsandbox.com/product/157,2026-11-23T19:41:19.145125+00:00
+SKU-SPO-0158,Smart Boxing Gloves,StyleCraft,Sports,96.53,163.18,3.7,in_stock,https://scrapingsandbox.com/product/158,2026-11-23T19:41:19.145141+00:00
+SKU-OFF-0159,Portable Tape Dispenser,PawPal,Office Supplies,102.60,,4.2,in_stock,https://scrapingsandbox.com/product/159,2026-11-23T19:41:19.145156+00:00
+SKU-BEA-0160,Classic Nail Polish,SparkleBox,Beauty,112.45,,3,in_stock,https://scrapingsandbox.com/product/160,2026-11-23T19:41:19.145171+00:00
+SKU-BOO-0161,Essential Mystery Novel,StyleCraft,Books,153.85,,3.6,in_stock,https://scrapingsandbox.com/product/161,2026-11-23T19:41:19.145187+00:00
+SKU-HEA-0162,Premium Omega-3 Capsules,GlowUp,Health,201.63,,5,out_of_stock,https://scrapingsandbox.com/product/162,2026-11-23T19:41:19.145248+00:00
+SKU-PET-0163,Classic Leash,MindBooks,Pet Supplies,89.34,122.49,4.1,in_stock,https://scrapingsandbox.com/product/163,2026-11-23T19:41:19.145279+00:00
+SKU-JEW-0164,Essential Stud Earrings,NovaTech,Jewelry,158.99,229.00,3.5,in_stock,https://scrapingsandbox.com/product/164,2026-11-23T19:41:19.145296+00:00
+SKU-SPO-0165,Smart Jump Rope,DeskMate,Sports,150.09,,5,in_stock,https://scrapingsandbox.com/product/165,2026-11-23T19:41:19.145312+00:00
+SKU-BOO-0166,Premium History Book,VitalLife,Books,41.46,,3,in_stock,https://scrapingsandbox.com/product/166,2026-11-23T19:41:19.145326+00:00
+SKU-MUS-0167,Wireless Vinyl Record,NovaTech,Music,107.79,175.94,4.1,in_stock,https://scrapingsandbox.com/product/167,2026-11-23T19:41:19.145342+00:00
+SKU-PET-0168,Advanced Food Bowl,UrbanThread,Pet Supplies,100.78,,4.4,in_stock,https://scrapingsandbox.com/product/168,2026-11-23T19:41:19.145358+00:00
+SKU-JEW-0169,Professional Hoop Earrings,SparkleBox,Jewelry,57.53,,4.1,in_stock,https://scrapingsandbox.com/product/169,2026-11-23T19:41:19.145373+00:00
+SKU-AUT-0170,Smart Seat Cover,FitPro,Automotive,48.18,,3.3,in_stock,https://scrapingsandbox.com/product/170,2026-11-23T19:41:19.145388+00:00
+SKU-MUS-0171,Heavy-Duty Vinyl Record,UrbanThread,Music,68.64,,4.7,in_stock,https://scrapingsandbox.com/product/171,2026-11-23T19:41:19.145402+00:00
+SKU-SPO-0172,Vintage Pull-Up Bar,GlowUp,Sports,202.91,,4.7,out_of_stock,https://scrapingsandbox.com/product/172,2026-11-23T19:41:19.145417+00:00
+SKU-MUS-0173,Portable MIDI Controller,NovaTech,Music,203.13,,3.1,in_stock,https://scrapingsandbox.com/product/173,2026-11-23T19:41:19.145432+00:00
+SKU-BEA-0174,Advanced Eye Cream,PageTurner,Beauty,7.70,,4.1,in_stock,https://scrapingsandbox.com/product/174,2026-11-23T19:41:19.145447+00:00
+SKU-BOO-0175,Modern Planner,ArtisanHub,Books,113.53,,4.9,in_stock,https://scrapingsandbox.com/product/175,2026-11-23T19:41:19.145461+00:00
+SKU-CLO-0176,Lightweight Chinos,PageTurner,Clothing,18.67,,3.4,in_stock,https://scrapingsandbox.com/product/176,2026-11-23T19:41:19.145476+00:00
+SKU-FOO-0177,Premium Spice Set,GlowUp,Food & Beverage,6.68,10.62,3.4,in_stock,https://scrapingsandbox.com/product/177,2026-11-23T19:41:19.145492+00:00
+SKU-AUT-0178,Handcrafted Phone Mount,ProGear,Automotive,128.07,,3.7,in_stock,https://scrapingsandbox.com/product/178,2026-11-23T19:41:19.145507+00:00
+SKU-AUT-0179,Professional Sun Shade,HomeNest,Automotive,7.31,9.70,4.4,in_stock,https://scrapingsandbox.com/product/179,2026-11-23T19:41:19.145523+00:00
+SKU-HEA-0180,Eco-Friendly Blood Pressure Monitor,ArtisanHub,Health,83.40,,4.3,out_of_stock,https://scrapingsandbox.com/product/180,2026-11-23T19:41:19.145538+00:00
+SKU-FOO-0181,Deluxe Protein Bar,MindBooks,Food & Beverage,120.78,203.44,4.7,in_stock,https://scrapingsandbox.com/product/181,2026-11-23T19:41:19.145554+00:00
+SKU-OFF-0182,Lightweight Notebook,TechVault,Office Supplies,165.84,267.36,3.9,in_stock,https://scrapingsandbox.com/product/182,2026-11-23T19:41:19.145570+00:00
+SKU-OFF-0183,Modern Binder,MindBooks,Office Supplies,130.68,,3.2,out_of_stock,https://scrapingsandbox.com/product/183,2026-11-23T19:41:19.145584+00:00
+SKU-AUT-0184,Advanced Car Charger,DeskMate,Automotive,63.89,,4.9,in_stock,https://scrapingsandbox.com/product/184,2026-11-23T19:41:19.145599+00:00
+SKU-HOM-0185,Portable Napkin Holder,GlowUp,Home & Garden,76.76,121.82,3.2,in_stock,https://scrapingsandbox.com/product/185,2026-11-23T19:41:19.145615+00:00
+SKU-PET-0186,Professional Leash,GlowUp,Pet Supplies,119.70,,3,in_stock,https://scrapingsandbox.com/product/186,2026-11-23T19:41:19.145630+00:00
+SKU-AUT-0187,Deluxe Ice Scraper,CozyCorner,Automotive,96.31,,4.2,in_stock,https://scrapingsandbox.com/product/187,2026-11-23T19:41:19.145644+00:00
+SKU-OFF-0188,Vintage Label Maker,SoundWave,Office Supplies,131.62,212.46,4.3,in_stock,https://scrapingsandbox.com/product/188,2026-11-23T19:41:19.145660+00:00
+SKU-MUS-0189,Eco-Friendly Amp,ArtisanHub,Music,121.82,175.37,3.8,in_stock,https://scrapingsandbox.com/product/189,2026-11-23T19:41:19.145676+00:00
+SKU-TOY-0190,Limited Edition Stuffed Animal,DeskMate,Toys,149.56,241.92,3.2,in_stock,https://scrapingsandbox.com/product/190,2026-11-23T19:41:19.145691+00:00
+SKU-MUS-0191,Ultra MIDI Controller,SoundWave,Music,9.88,,3.5,in_stock,https://scrapingsandbox.com/product/191,2026-11-23T19:41:19.145706+00:00
+SKU-CLO-0192,Classic Watch,NovaTech,Clothing,67.38,,3.3,in_stock,https://scrapingsandbox.com/product/192,2026-11-23T19:41:19.145721+00:00
+SKU-BOO-0193,Modern Children's Book,DeskMate,Books,38.62,55.05,4.3,in_stock,https://scrapingsandbox.com/product/193,2026-11-23T19:41:19.145737+00:00
+SKU-BEA-0194,Smart Eye Cream,TechVault,Beauty,20.01,,3.1,out_of_stock,https://scrapingsandbox.com/product/194,2026-11-23T19:41:19.145751+00:00
+SKU-FOO-0195,Advanced Spice Set,PawPal,Food & Beverage,27.65,34.29,3.5,in_stock,https://scrapingsandbox.com/product/195,2026-11-23T19:41:19.145767+00:00
+SKU-OFF-0196,Portable Stapler,TasteBud,Office Supplies,23.63,,3.6,in_stock,https://scrapingsandbox.com/product/196,2026-11-23T19:41:19.145782+00:00
+SKU-ELE-0197,Professional Laptop Sleeve,PawPal,Electronics,192.64,283.67,4.4,in_stock,https://scrapingsandbox.com/product/197,2026-11-23T19:41:19.145797+00:00
+SKU-OFF-0198,Eco-Friendly Binder,DeskMate,Office Supplies,9.44,,4.9,in_stock,https://scrapingsandbox.com/product/198,2026-11-23T19:41:19.145813+00:00
+SKU-TOY-0199,Organic Dollhouse,PawPal,Toys,175.94,217.45,4.8,in_stock,https://scrapingsandbox.com/product/199,2026-11-23T19:41:19.145829+00:00
+SKU-ART-0200,Advanced Stencil Set,NovaTech,Art,154.08,,3.7,in_stock,https://scrapingsandbox.com/product/200,2026-11-23T19:41:19.145844+00:00
+SKU-MUS-0201,Compact Metronome,SparkleBox,Music,160.71,222.84,3.9,in_stock,https://scrapingsandbox.com/product/201,2026-11-23T19:41:19.145861+00:00
+SKU-HOM-0202,Modern Plant Pot,PageTurner,Home & Garden,90.89,146.38,3.1,in_stock,https://scrapingsandbox.com/product/202,2026-11-23T19:41:19.145876+00:00
+SKU-ELE-0203,Smart Screen Protector,NovaTech,Electronics,173.13,,3.1,in_stock,https://scrapingsandbox.com/product/203,2026-11-23T19:41:19.145892+00:00
+SKU-MUS-0204,Pro Boom Arm,HomeNest,Music,142.43,,3.7,in_stock,https://scrapingsandbox.com/product/204,2026-11-23T19:41:19.145907+00:00
+SKU-ELE-0205,Modern Phone Case,GlowUp,Electronics,51.34,,3.5,in_stock,https://scrapingsandbox.com/product/205,2026-11-23T19:41:19.145922+00:00
+SKU-FOO-0206,Smart Popcorn Pack,ArtisanHub,Food & Beverage,68.14,112.13,4.2,in_stock,https://scrapingsandbox.com/product/206,2026-11-23T19:41:19.145937+00:00
+SKU-CLO-0207,Premium Sunglasses,MindBooks,Clothing,129.25,,3.8,in_stock,https://scrapingsandbox.com/product/207,2026-11-23T19:41:19.145953+00:00
+SKU-CLO-0208,Pro Belt,PageTurner,Clothing,144.06,,3,in_stock,https://scrapingsandbox.com/product/208,2026-11-23T19:41:19.145968+00:00
+SKU-ELE-0209,Eco-Friendly Smart Watch,NovaTech,Electronics,168.73,,4.1,in_stock,https://scrapingsandbox.com/product/209,2026-11-23T19:41:19.145983+00:00
+SKU-ART-0210,Heavy-Duty Sketchbook,TasteBud,Art,74.16,,4.9,in_stock,https://scrapingsandbox.com/product/210,2026-11-23T19:41:19.145998+00:00
+SKU-SPO-0211,Premium Ankle Weights,PageTurner,Sports,29.20,40.76,4.6,in_stock,https://scrapingsandbox.com/product/211,2026-11-23T19:41:19.146013+00:00
+SKU-AUT-0212,Limited Edition Oil Filter,FitPro,Automotive,112.39,,3.3,in_stock,https://scrapingsandbox.com/product/212,2026-11-23T19:41:19.146029+00:00
+SKU-ELE-0213,Premium Charger,TechVault,Electronics,23.65,,5,in_stock,https://scrapingsandbox.com/product/213,2026-11-23T19:41:19.146043+00:00
+SKU-HOM-0214,Limited Edition Wall Art,NovaTech,Home & Garden,195.03,,3.4,in_stock,https://scrapingsandbox.com/product/214,2026-11-23T19:41:19.146059+00:00
+SKU-JEW-0215,Portable Hair Pin,PageTurner,Jewelry,5.66,,3,in_stock,https://scrapingsandbox.com/product/215,2026-11-23T19:41:19.146074+00:00
+SKU-ELE-0216,Deluxe Laptop Sleeve,NovaTech,Electronics,17.79,26.23,4.6,in_stock,https://scrapingsandbox.com/product/216,2026-11-23T19:41:19.146089+00:00
+SKU-BOO-0217,Wireless Journal,CozyCorner,Books,174.01,237.51,3.5,in_stock,https://scrapingsandbox.com/product/217,2026-11-23T19:41:19.146105+00:00
+SKU-PET-0218,Essential Litter Box,UrbanThread,Pet Supplies,86.69,133.18,3.4,out_of_stock,https://scrapingsandbox.com/product/218,2026-11-23T19:41:19.146120+00:00
+SKU-JEW-0219,Smart Stud Earrings,PageTurner,Jewelry,94.56,,4.2,in_stock,https://scrapingsandbox.com/product/219,2026-11-23T19:41:19.146135+00:00
+SKU-AUT-0220,Modern Wiper Blade,NovaTech,Automotive,81.75,121.36,3.8,in_stock,https://scrapingsandbox.com/product/220,2026-11-23T19:41:19.146151+00:00
+SKU-SPO-0221,Portable Tennis Balls,TasteBud,Sports,51.66,63.05,3.9,in_stock,https://scrapingsandbox.com/product/221,2026-11-23T19:41:19.146166+00:00
+SKU-AUT-0222,Organic Jump Starter,CozyCorner,Automotive,204.67,252.45,4.9,in_stock,https://scrapingsandbox.com/product/222,2026-11-23T19:41:19.146182+00:00
+SKU-OFF-0223,Heavy-Duty Ruler,DeskMate,Office Supplies,37.37,,4.4,in_stock,https://scrapingsandbox.com/product/223,2026-11-23T19:41:19.146196+00:00
+SKU-BEA-0224,Ultra Face Mask,SoundWave,Beauty,171.32,254.77,4.1,in_stock,https://scrapingsandbox.com/product/224,2026-11-23T19:41:19.146287+00:00
+SKU-OFF-0225,Organic Stapler,SoundWave,Office Supplies,70.78,,3.9,in_stock,https://scrapingsandbox.com/product/225,2026-11-23T19:41:19.146308+00:00
+SKU-OFF-0226,Pro Desk Organizer,SoundWave,Office Supplies,101.00,143.79,4.2,in_stock,https://scrapingsandbox.com/product/226,2026-11-23T19:41:19.146324+00:00
+SKU-AUT-0227,Wireless Steering Wheel Cover,ProGear,Automotive,156.47,,4.6,in_stock,https://scrapingsandbox.com/product/227,2026-11-23T19:41:19.146339+00:00
+SKU-BOO-0228,Heavy-Duty Science Book,TasteBud,Books,178.14,,3.7,in_stock,https://scrapingsandbox.com/product/228,2026-11-23T19:41:19.146354+00:00
+SKU-SPO-0229,Vintage Sweatband,NovaTech,Sports,114.50,153.94,5,in_stock,https://scrapingsandbox.com/product/229,2026-11-23T19:41:19.146369+00:00
+SKU-FOO-0230,Advanced Energy Drink,ArtisanHub,Food & Beverage,54.89,,4.8,in_stock,https://scrapingsandbox.com/product/230,2026-11-23T19:41:19.146384+00:00
+SKU-MUS-0231,Essential Speaker Cable,CozyCorner,Music,70.57,,3.4,in_stock,https://scrapingsandbox.com/product/231,2026-11-23T19:41:19.146399+00:00
+SKU-CLO-0232,Classic Joggers,TechVault,Clothing,204.86,294.12,4.6,in_stock,https://scrapingsandbox.com/product/232,2026-11-23T19:41:19.146415+00:00
+SKU-SPO-0233,Classic Water Bottle,HomeNest,Sports,106.03,,4.9,in_stock,https://scrapingsandbox.com/product/233,2026-11-23T19:41:19.146431+00:00
+SKU-BOO-0234,Wireless Coloring Book,TechVault,Books,7.36,9.00,4.4,in_stock,https://scrapingsandbox.com/product/234,2026-11-23T19:41:19.146447+00:00
+SKU-ART-0235,Deluxe Pencil Set,VitalLife,Art,168.21,,3,in_stock,https://scrapingsandbox.com/product/235,2026-11-23T19:41:19.146463+00:00
+SKU-CLO-0236,Handcrafted Joggers,DeskMate,Clothing,117.83,,3.9,in_stock,https://scrapingsandbox.com/product/236,2026-11-23T19:41:19.146479+00:00
+SKU-BEA-0237,Classic Makeup Brush Set,SparkleBox,Beauty,149.46,213.87,4.5,in_stock,https://scrapingsandbox.com/product/237,2026-11-23T19:41:19.146495+00:00
+SKU-MUS-0238,Wireless Audio Cable,NovaTech,Music,75.81,,3.1,in_stock,https://scrapingsandbox.com/product/238,2026-11-23T19:41:19.146510+00:00
+SKU-ELE-0239,Smart Mouse Pad,TasteBud,Electronics,21.44,,4,in_stock,https://scrapingsandbox.com/product/239,2026-11-23T19:41:19.146525+00:00
+SKU-JEW-0240,Wireless Chain,SoundWave,Jewelry,95.83,,3.2,in_stock,https://scrapingsandbox.com/product/240,2026-11-23T19:41:19.146540+00:00
+SKU-BOO-0241,Lightweight Planner,AutoParts Pro,Books,111.17,,4.1,in_stock,https://scrapingsandbox.com/product/241,2026-11-23T19:41:19.146555+00:00
+SKU-HOM-0242,Lightweight Storage Basket,CozyCorner,Home & Garden,174.65,,4.5,in_stock,https://scrapingsandbox.com/product/242,2026-11-23T19:41:19.146570+00:00
+SKU-HOM-0243,Pro Spice Rack,TechVault,Home & Garden,184.66,251.55,4.2,in_stock,https://scrapingsandbox.com/product/243,2026-11-23T19:41:19.146587+00:00
+SKU-BEA-0244,Deluxe Bath Bomb,DeskMate,Beauty,79.62,,4,in_stock,https://scrapingsandbox.com/product/244,2026-11-23T19:41:19.146601+00:00
+SKU-CLO-0245,Advanced Scarf,AutoParts Pro,Clothing,79.61,,3.8,in_stock,https://scrapingsandbox.com/product/245,2026-11-23T19:41:19.146616+00:00
+SKU-FOO-0246,Portable Popcorn Pack,ArtisanHub,Food & Beverage,75.79,119.88,4.3,in_stock,https://scrapingsandbox.com/product/246,2026-11-23T19:41:19.146631+00:00
+SKU-ELE-0247,Professional HDMI Cable,FitPro,Electronics,27.06,,4.8,in_stock,https://scrapingsandbox.com/product/247,2026-11-23T19:41:19.146646+00:00
+SKU-JEW-0248,Organic Toe Ring,MindBooks,Jewelry,201.23,,4.4,in_stock,https://scrapingsandbox.com/product/248,2026-11-23T19:41:19.146660+00:00
+SKU-MUS-0249,Pro Guitar Strings,TasteBud,Music,149.41,180.25,4.7,in_stock,https://scrapingsandbox.com/product/249,2026-11-23T19:41:19.146676+00:00
+SKU-SPO-0250,Essential Sweatband,PageTurner,Sports,173.68,,4.6,in_stock,https://scrapingsandbox.com/product/250,2026-11-23T19:41:19.146691+00:00
+SKU-PET-0251,Modern Pet Bed,TasteBud,Pet Supplies,76.46,,3.7,in_stock,https://scrapingsandbox.com/product/251,2026-11-23T19:41:19.146706+00:00
+SKU-HOM-0252,Lightweight Napkin Holder,DeskMate,Home & Garden,124.68,,4,in_stock,https://scrapingsandbox.com/product/252,2026-11-23T19:41:19.146790+00:00
+SKU-SPO-0253,Eco-Friendly Resistance Bands,TechVault,Sports,60.21,81.52,3.8,in_stock,https://scrapingsandbox.com/product/253,2026-11-23T19:41:19.146824+00:00
+SKU-JEW-0254,Modern Brooch,PageTurner,Jewelry,23.37,,3.3,in_stock,https://scrapingsandbox.com/product/254,2026-11-23T19:41:19.146841+00:00
+SKU-ELE-0255,Premium Ring Light,ArtisanHub,Electronics,40.46,,3.3,out_of_stock,https://scrapingsandbox.com/product/255,2026-11-23T19:41:19.146857+00:00
+SKU-PET-0256,Essential Fish Tank Filter,ProGear,Pet Supplies,84.36,,4.8,in_stock,https://scrapingsandbox.com/product/256,2026-11-23T19:41:19.146872+00:00
+SKU-ART-0257,Heavy-Duty Brush Kit,ArtisanHub,Art,86.42,115.88,3.8,in_stock,https://scrapingsandbox.com/product/257,2026-11-23T19:41:19.146888+00:00
+SKU-HOM-0258,Compact Throw Pillow,SoundWave,Home & Garden,194.24,,3.8,in_stock,https://scrapingsandbox.com/product/258,2026-11-23T19:41:19.146904+00:00
+SKU-AUT-0259,Heavy-Duty Trunk Organizer,UrbanThread,Automotive,159.86,,3.5,out_of_stock,https://scrapingsandbox.com/product/259,2026-11-23T19:41:19.146919+00:00
+SKU-JEW-0260,Eco-Friendly Body Chain,ArtisanHub,Jewelry,68.39,,3.3,in_stock,https://scrapingsandbox.com/product/260,2026-11-23T19:41:19.146936+00:00
+SKU-PET-0261,Pro Grooming Brush,StyleCraft,Pet Supplies,77.92,,5,in_stock,https://scrapingsandbox.com/product/261,2026-11-23T19:41:19.146952+00:00
+SKU-HOM-0262,Smart Storage Basket,PageTurner,Home & Garden,146.35,196.71,4.1,out_of_stock,https://scrapingsandbox.com/product/262,2026-11-23T19:41:19.146969+00:00
+SKU-FOO-0263,Advanced Olive Oil,TasteBud,Food & Beverage,198.79,,3.4,in_stock,https://scrapingsandbox.com/product/263,2026-11-23T19:41:19.146984+00:00
+SKU-TOY-0264,Professional Stuffed Animal,DeskMate,Toys,166.62,,4.5,out_of_stock,https://scrapingsandbox.com/product/264,2026-11-23T19:41:19.146999+00:00
+SKU-ELE-0265,Organic Gaming Mouse,MindBooks,Electronics,28.78,46.85,3.5,in_stock,https://scrapingsandbox.com/product/265,2026-11-23T19:41:19.147015+00:00
+SKU-ELE-0266,Essential LED Desk Lamp,TechVault,Electronics,156.21,256.54,3.3,in_stock,https://scrapingsandbox.com/product/266,2026-11-23T19:41:19.147031+00:00
+SKU-BOO-0267,Classic Graphic Novel,PageTurner,Books,112.38,,4.9,in_stock,https://scrapingsandbox.com/product/267,2026-11-23T19:41:19.147046+00:00
+SKU-HEA-0268,Modern Omega-3 Capsules,PageTurner,Health,13.40,,4.4,in_stock,https://scrapingsandbox.com/product/268,2026-11-23T19:41:19.147063+00:00
+SKU-HEA-0269,Handcrafted Compression Sleeve,StyleCraft,Health,154.03,,4.9,in_stock,https://scrapingsandbox.com/product/269,2026-11-23T19:41:19.147077+00:00
+SKU-PET-0270,Lightweight Dog Treat,PageTurner,Pet Supplies,160.82,,4.4,in_stock,https://scrapingsandbox.com/product/270,2026-11-23T19:41:19.147092+00:00
+SKU-TOY-0271,Portable Puzzle Set,HomeNest,Toys,83.15,122.04,3,in_stock,https://scrapingsandbox.com/product/271,2026-11-23T19:41:19.147108+00:00
+SKU-BOO-0272,Compact Travel Guide,PlayZone,Books,19.33,,5,in_stock,https://scrapingsandbox.com/product/272,2026-11-23T19:41:19.147123+00:00
+SKU-SPO-0273,Portable Fitness Tracker,FitPro,Sports,147.65,,3.3,in_stock,https://scrapingsandbox.com/product/273,2026-11-23T19:41:19.147138+00:00
+SKU-BEA-0274,Smart Lip Balm,PawPal,Beauty,117.61,175.51,3.1,in_stock,https://scrapingsandbox.com/product/274,2026-11-23T19:41:19.147153+00:00
+SKU-TOY-0275,Ultra Play Dough,PlayZone,Toys,60.00,77.52,4.7,out_of_stock,https://scrapingsandbox.com/product/275,2026-11-23T19:41:19.147170+00:00
+SKU-OFF-0276,Portable Whiteboard,HomeNest,Office Supplies,100.95,,4.3,out_of_stock,https://scrapingsandbox.com/product/276,2026-11-23T19:41:19.147185+00:00
+SKU-JEW-0277,Pro Silver Necklace,TasteBud,Jewelry,169.56,278.23,4.6,in_stock,https://scrapingsandbox.com/product/277,2026-11-23T19:41:19.147201+00:00
+SKU-HOM-0278,Portable Throw Pillow,HomeNest,Home & Garden,62.55,,4.2,in_stock,https://scrapingsandbox.com/product/278,2026-11-23T19:41:19.147216+00:00
+SKU-SPO-0279,Portable Compression Socks,StyleCraft,Sports,21.34,,4.8,in_stock,https://scrapingsandbox.com/product/279,2026-11-23T19:41:19.147231+00:00
+SKU-MUS-0280,Advanced Amp,PageTurner,Music,179.11,228.56,4.9,in_stock,https://scrapingsandbox.com/product/280,2026-11-23T19:41:19.147248+00:00
+SKU-BEA-0281,Organic Toner,PawPal,Beauty,33.68,,4,in_stock,https://scrapingsandbox.com/product/281,2026-11-23T19:41:19.147263+00:00
+SKU-HEA-0282,Vintage Melatonin,SoundWave,Health,72.06,,3.7,in_stock,https://scrapingsandbox.com/product/282,2026-11-23T19:41:19.147278+00:00
+SKU-FOO-0283,Organic Snack Box,GlowUp,Food & Beverage,121.79,171.60,3.8,in_stock,https://scrapingsandbox.com/product/283,2026-11-23T19:41:19.147293+00:00
+SKU-FOO-0284,Classic Snack Box,DeskMate,Food & Beverage,55.44,,4.8,in_stock,https://scrapingsandbox.com/product/284,2026-11-23T19:41:19.147308+00:00
+SKU-ELE-0285,Heavy-Duty Microphone,ProGear,Electronics,9.70,13.34,3.3,in_stock,https://scrapingsandbox.com/product/285,2026-11-23T19:41:19.147324+00:00
+SKU-FOO-0286,Wireless Jam Collection,SparkleBox,Food & Beverage,107.47,,4.3,out_of_stock,https://scrapingsandbox.com/product/286,2026-11-23T19:41:19.147340+00:00
+SKU-FOO-0287,Essential Dried Fruit,AutoParts Pro,Food & Beverage,16.27,,3.7,in_stock,https://scrapingsandbox.com/product/287,2026-11-23T19:41:19.147355+00:00
+SKU-PET-0288,Advanced Flea Collar,NovaTech,Pet Supplies,192.71,,4,in_stock,https://scrapingsandbox.com/product/288,2026-11-23T19:41:19.147369+00:00
+SKU-ELE-0289,Portable Mechanical Keyboard,NovaTech,Electronics,58.98,82.56,4.5,in_stock,https://scrapingsandbox.com/product/289,2026-11-23T19:41:19.147385+00:00
+SKU-FOO-0290,Deluxe Pasta Set,UrbanThread,Food & Beverage,74.26,,3.3,in_stock,https://scrapingsandbox.com/product/290,2026-11-23T19:41:19.147400+00:00
+SKU-FOO-0291,Vintage Honey Jar,SparkleBox,Food & Beverage,17.89,25.45,3.6,in_stock,https://scrapingsandbox.com/product/291,2026-11-23T19:41:19.147415+00:00
+SKU-BEA-0292,Classic Body Lotion,UrbanThread,Beauty,12.70,17.64,4.5,out_of_stock,https://scrapingsandbox.com/product/292,2026-11-23T19:41:19.147430+00:00
+SKU-OFF-0293,Wireless Envelope Pack,GlowUp,Office Supplies,21.41,,3.5,in_stock,https://scrapingsandbox.com/product/293,2026-11-23T19:41:19.147444+00:00
+SKU-JEW-0294,Eco-Friendly Chain,HomeNest,Jewelry,172.63,,4.6,in_stock,https://scrapingsandbox.com/product/294,2026-11-23T19:41:19.147459+00:00
+SKU-BEA-0295,Heavy-Duty Hair Oil,ProGear,Beauty,52.79,,3.4,in_stock,https://scrapingsandbox.com/product/295,2026-11-23T19:41:19.147474+00:00
+SKU-AUT-0296,Organic Wiper Blade,PlayZone,Automotive,201.44,,4.6,in_stock,https://scrapingsandbox.com/product/296,2026-11-23T19:41:19.147488+00:00
+SKU-SPO-0297,Wireless Foam Roller,AutoParts Pro,Sports,194.70,307.83,3.6,in_stock,https://scrapingsandbox.com/product/297,2026-11-23T19:41:19.147503+00:00
+SKU-OFF-0298,Vintage Calculator,TasteBud,Office Supplies,100.01,,3.3,in_stock,https://scrapingsandbox.com/product/298,2026-11-23T19:41:19.147517+00:00
+SKU-BOO-0299,Smart Science Book,ProGear,Books,73.20,,3.5,in_stock,https://scrapingsandbox.com/product/299,2026-11-23T19:41:19.147532+00:00
+SKU-ART-0300,Advanced Calligraphy Set,TasteBud,Art,39.94,64.12,4.1,in_stock,https://scrapingsandbox.com/product/300,2026-11-23T19:41:19.147547+00:00
+SKU-MUS-0301,Ultra MIDI Controller,MindBooks,Music,83.16,,3.1,in_stock,https://scrapingsandbox.com/product/301,2026-11-23T19:41:19.147561+00:00
+SKU-AUT-0302,Modern Oil Filter,TasteBud,Automotive,146.29,,4.1,in_stock,https://scrapingsandbox.com/product/302,2026-11-23T19:41:19.147575+00:00
+SKU-ELE-0303,Compact Mouse Pad,SoundWave,Electronics,81.42,,4,in_stock,https://scrapingsandbox.com/product/303,2026-11-23T19:41:19.147589+00:00
+SKU-HEA-0304,Pro Vitamin Pack,MindBooks,Health,84.00,111.18,4.3,in_stock,https://scrapingsandbox.com/product/304,2026-11-23T19:41:19.147604+00:00
+SKU-TOY-0305,Portable Stuffed Animal,UrbanThread,Toys,79.08,,3.2,in_stock,https://scrapingsandbox.com/product/305,2026-11-23T19:41:19.147619+00:00
+SKU-CLO-0306,Wireless Joggers,TasteBud,Clothing,181.84,240.50,3.2,in_stock,https://scrapingsandbox.com/product/306,2026-11-23T19:41:19.147634+00:00
+SKU-AUT-0307,Professional Air Freshener,PlayZone,Automotive,148.02,,4.8,in_stock,https://scrapingsandbox.com/product/307,2026-11-23T19:41:19.147649+00:00
+SKU-ART-0308,Premium Easel,AutoParts Pro,Art,125.00,,3.7,out_of_stock,https://scrapingsandbox.com/product/308,2026-11-23T19:41:19.147662+00:00
+SKU-JEW-0309,Advanced Stud Earrings,TasteBud,Jewelry,19.77,27.55,3.5,in_stock,https://scrapingsandbox.com/product/309,2026-11-23T19:41:19.147677+00:00
+SKU-TOY-0310,Portable Robot Kit,PlayZone,Toys,107.24,,4.9,in_stock,https://scrapingsandbox.com/product/310,2026-11-23T19:41:19.147691+00:00
+SKU-HOM-0311,Compact Mug Set,UrbanThread,Home & Garden,191.35,,4.6,in_stock,https://scrapingsandbox.com/product/311,2026-11-23T19:41:19.147705+00:00
+SKU-BOO-0312,Essential Science Book,FitPro,Books,130.86,,4.7,in_stock,https://scrapingsandbox.com/product/312,2026-11-23T19:41:19.147719+00:00
+SKU-BOO-0313,Lightweight Biography,CozyCorner,Books,189.70,,4.6,in_stock,https://scrapingsandbox.com/product/313,2026-11-23T19:41:19.147733+00:00
+SKU-BEA-0314,Organic Eye Cream,GlowUp,Beauty,5.12,8.10,3.8,in_stock,https://scrapingsandbox.com/product/314,2026-11-23T19:41:19.147799+00:00
+SKU-HEA-0315,Premium Omega-3 Capsules,StyleCraft,Health,115.44,160.29,3.6,in_stock,https://scrapingsandbox.com/product/315,2026-11-23T19:41:19.147834+00:00
+SKU-ELE-0316,Deluxe SSD Drive,ArtisanHub,Electronics,8.33,,4.2,in_stock,https://scrapingsandbox.com/product/316,2026-11-23T19:41:19.147854+00:00
+SKU-JEW-0317,Ultra Bangle,TasteBud,Jewelry,194.15,259.67,5,in_stock,https://scrapingsandbox.com/product/317,2026-11-23T19:41:19.147870+00:00
+SKU-TOY-0318,Premium Stuffed Animal,VitalLife,Toys,97.99,,3,in_stock,https://scrapingsandbox.com/product/318,2026-11-23T19:41:19.147885+00:00
+SKU-MUS-0319,Vintage Sheet Music,ProGear,Music,12.46,16.46,3.4,in_stock,https://scrapingsandbox.com/product/319,2026-11-23T19:41:19.147900+00:00
+SKU-OFF-0320,Wireless Stapler,MindBooks,Office Supplies,43.41,62.50,3.6,in_stock,https://scrapingsandbox.com/product/320,2026-11-23T19:41:19.147915+00:00
+SKU-PET-0321,Wireless Food Bowl,UrbanThread,Pet Supplies,131.25,,4.1,in_stock,https://scrapingsandbox.com/product/321,2026-11-23T19:41:19.147930+00:00
+SKU-ART-0322,Handcrafted Carving Tools,HomeNest,Art,147.17,,4.9,in_stock,https://scrapingsandbox.com/product/322,2026-11-23T19:41:19.147944+00:00
+SKU-HEA-0323,Classic Probiotics,SoundWave,Health,25.28,38.25,3.9,in_stock,https://scrapingsandbox.com/product/323,2026-11-23T19:41:19.147959+00:00
+SKU-SPO-0324,Eco-Friendly Dumbbell Set,SparkleBox,Sports,87.11,134.16,3.7,in_stock,https://scrapingsandbox.com/product/324,2026-11-23T19:41:19.147974+00:00
+SKU-PET-0325,Portable Aquarium Plant,HomeNest,Pet Supplies,81.27,,4.3,in_stock,https://scrapingsandbox.com/product/325,2026-11-23T19:41:19.147988+00:00
+SKU-HOM-0326,Vintage Table Runner,ProGear,Home & Garden,61.12,,3.2,out_of_stock,https://scrapingsandbox.com/product/326,2026-11-23T19:41:19.148002+00:00
+SKU-MUS-0327,Portable Pop Filter,SoundWave,Music,123.12,,4.1,in_stock,https://scrapingsandbox.com/product/327,2026-11-23T19:41:19.148016+00:00
+SKU-BOO-0328,Lightweight Children's Book,VitalLife,Books,121.56,,3.3,out_of_stock,https://scrapingsandbox.com/product/328,2026-11-23T19:41:19.148031+00:00
+SKU-ELE-0329,Heavy-Duty Gaming Mouse,AutoParts Pro,Electronics,149.40,209.47,4.8,out_of_stock,https://scrapingsandbox.com/product/329,2026-11-23T19:41:19.148046+00:00
+SKU-MUS-0330,Ultra Synthesizer Patch,AutoParts Pro,Music,155.11,,4.5,in_stock,https://scrapingsandbox.com/product/330,2026-11-23T19:41:19.148061+00:00
+SKU-OFF-0331,Classic Tape Dispenser,TasteBud,Office Supplies,176.51,263.01,3.2,in_stock,https://scrapingsandbox.com/product/331,2026-11-23T19:41:19.148076+00:00
+SKU-HOM-0332,Lightweight Coaster Set,TechVault,Home & Garden,193.52,,4.2,out_of_stock,https://scrapingsandbox.com/product/332,2026-11-23T19:41:19.148090+00:00
+SKU-AUT-0333,Heavy-Duty Trunk Organizer,CozyCorner,Automotive,51.77,,4,in_stock,https://scrapingsandbox.com/product/333,2026-11-23T19:41:19.148104+00:00
+SKU-OFF-0334,Essential Desk Organizer,PlayZone,Office Supplies,185.73,,4.7,in_stock,https://scrapingsandbox.com/product/334,2026-11-23T19:41:19.148118+00:00
+SKU-AUT-0335,Ultra Spark Plug,PlayZone,Automotive,110.93,,4.7,in_stock,https://scrapingsandbox.com/product/335,2026-11-23T19:41:19.148133+00:00
+SKU-JEW-0336,Classic Pendant,AutoParts Pro,Jewelry,158.89,,4.9,in_stock,https://scrapingsandbox.com/product/336,2026-11-23T19:41:19.148148+00:00
+SKU-JEW-0337,Vintage Tiara,GlowUp,Jewelry,116.86,,4.7,in_stock,https://scrapingsandbox.com/product/337,2026-11-23T19:41:19.148162+00:00
+SKU-BEA-0338,Modern Perfume,GlowUp,Beauty,202.59,,3.9,in_stock,https://scrapingsandbox.com/product/338,2026-11-23T19:41:19.148177+00:00
+SKU-ART-0339,Professional Color Wheel,SoundWave,Art,13.45,,4,in_stock,https://scrapingsandbox.com/product/339,2026-11-23T19:41:19.148191+00:00
+SKU-HOM-0340,Ultra Wall Art,AutoParts Pro,Home & Garden,93.41,,3.8,in_stock,https://scrapingsandbox.com/product/340,2026-11-23T19:41:19.148206+00:00
+SKU-SPO-0341,Smart Dumbbell Set,StyleCraft,Sports,147.22,185.81,4.1,in_stock,https://scrapingsandbox.com/product/341,2026-11-23T19:41:19.148221+00:00
+SKU-ELE-0342,Pro Charger,PawPal,Electronics,45.06,,3.7,out_of_stock,https://scrapingsandbox.com/product/342,2026-11-23T19:41:19.148236+00:00
+SKU-BOO-0343,Portable Business Book,FitPro,Books,192.55,262.58,3.1,in_stock,https://scrapingsandbox.com/product/343,2026-11-23T19:41:19.148252+00:00
+SKU-FOO-0344,Professional Popcorn Pack,PageTurner,Food & Beverage,122.84,150.39,3.1,in_stock,https://scrapingsandbox.com/product/344,2026-11-23T19:41:19.148268+00:00
+SKU-ELE-0345,Deluxe Phone Case,PlayZone,Electronics,110.14,161.23,3,in_stock,https://scrapingsandbox.com/product/345,2026-11-23T19:41:19.148283+00:00
+SKU-SPO-0346,Vintage Yoga Mat,MindBooks,Sports,27.71,,3.6,in_stock,https://scrapingsandbox.com/product/346,2026-11-23T19:41:19.148298+00:00
+SKU-BEA-0347,Pro Toner,PlayZone,Beauty,147.87,,3.6,out_of_stock,https://scrapingsandbox.com/product/347,2026-11-23T19:41:19.148312+00:00
+SKU-FOO-0348,Handcrafted Popcorn Pack,HomeNest,Food & Beverage,123.43,,3.8,in_stock,https://scrapingsandbox.com/product/348,2026-11-23T19:41:19.148326+00:00
+SKU-HEA-0349,Vintage Massage Gun,SparkleBox,Health,184.15,283.37,3,in_stock,https://scrapingsandbox.com/product/349,2026-11-23T19:41:19.148341+00:00
+SKU-JEW-0350,Portable Hoop Earrings,ProGear,Jewelry,47.61,77.11,3.6,in_stock,https://scrapingsandbox.com/product/350,2026-11-23T19:41:19.148357+00:00
+SKU-AUT-0351,Wireless Floor Mat,SoundWave,Automotive,88.69,,4.7,in_stock,https://scrapingsandbox.com/product/351,2026-11-23T19:41:19.148370+00:00
+SKU-ELE-0352,Limited Edition Wireless Earbuds,SoundWave,Electronics,20.59,30.64,4.4,in_stock,https://scrapingsandbox.com/product/352,2026-11-23T19:41:19.148386+00:00
+SKU-ELE-0353,Limited Edition Charger,VitalLife,Electronics,17.03,,3.4,in_stock,https://scrapingsandbox.com/product/353,2026-11-23T19:41:19.148400+00:00
+SKU-TOY-0354,Eco-Friendly Kite,StyleCraft,Toys,118.29,152.28,4.8,in_stock,https://scrapingsandbox.com/product/354,2026-11-23T19:41:19.148415+00:00
+SKU-TOY-0355,Ultra Bubble Machine,ArtisanHub,Toys,149.10,232.81,4.7,in_stock,https://scrapingsandbox.com/product/355,2026-11-23T19:41:19.148431+00:00
+SKU-HOM-0356,Smart Bookend,ProGear,Home & Garden,151.96,238.09,3.2,in_stock,https://scrapingsandbox.com/product/356,2026-11-23T19:41:19.148446+00:00
+SKU-CLO-0357,Lightweight Sneakers,DeskMate,Clothing,200.94,,4,in_stock,https://scrapingsandbox.com/product/357,2026-11-23T19:41:19.148460+00:00
+SKU-FOO-0358,Classic Coconut Water,DeskMate,Food & Beverage,151.61,,4.3,out_of_stock,https://scrapingsandbox.com/product/358,2026-11-23T19:41:19.148473+00:00
+SKU-ELE-0359,Compact Gaming Mouse,PageTurner,Electronics,146.92,,4.4,in_stock,https://scrapingsandbox.com/product/359,2026-11-23T19:41:19.148487+00:00
+SKU-OFF-0360,Pro Calculator,SoundWave,Office Supplies,174.36,,3.4,in_stock,https://scrapingsandbox.com/product/360,2026-11-23T19:41:19.148502+00:00
+SKU-ART-0361,Premium Color Wheel,ArtisanHub,Art,196.92,268.22,3.9,in_stock,https://scrapingsandbox.com/product/361,2026-11-23T19:41:19.148517+00:00
+SKU-HEA-0362,Lightweight Scale,AutoParts Pro,Health,184.17,250.22,3.7,in_stock,https://scrapingsandbox.com/product/362,2026-11-23T19:41:19.148532+00:00
+SKU-CLO-0363,Compact Windbreaker,PlayZone,Clothing,100.19,162.71,4.6,in_stock,https://scrapingsandbox.com/product/363,2026-11-23T19:41:19.148547+00:00
+SKU-BEA-0364,Essential Moisturizer,SparkleBox,Beauty,144.11,,3.6,in_stock,https://scrapingsandbox.com/product/364,2026-11-23T19:41:19.148561+00:00
+SKU-ART-0365,Modern Marker Pack,MindBooks,Art,18.68,,4.3,in_stock,https://scrapingsandbox.com/product/365,2026-11-23T19:41:19.148575+00:00
+SKU-OFF-0366,Ultra Label Maker,PageTurner,Office Supplies,108.75,164.67,4.6,in_stock,https://scrapingsandbox.com/product/366,2026-11-23T19:41:19.148590+00:00
+SKU-ELE-0367,Compact Ring Light,PlayZone,Electronics,9.67,,4,in_stock,https://scrapingsandbox.com/product/367,2026-11-23T19:41:19.148604+00:00
+SKU-FOO-0368,Pro Matcha Powder,GlowUp,Food & Beverage,61.14,,4.4,in_stock,https://scrapingsandbox.com/product/368,2026-11-23T19:41:19.148620+00:00
+SKU-BOO-0369,Lightweight Fantasy Epic,VitalLife,Books,83.62,,3.8,in_stock,https://scrapingsandbox.com/product/369,2026-11-23T19:41:19.148635+00:00
+SKU-JEW-0370,Heavy-Duty Locket,TechVault,Jewelry,127.92,,4.2,in_stock,https://scrapingsandbox.com/product/370,2026-11-23T19:41:19.148650+00:00
+SKU-HEA-0371,Professional Probiotics,FitPro,Health,32.47,,4.7,in_stock,https://scrapingsandbox.com/product/371,2026-11-23T19:41:19.148663+00:00
+SKU-JEW-0372,Compact Bracelet,ArtisanHub,Jewelry,10.53,17.25,3.4,in_stock,https://scrapingsandbox.com/product/372,2026-11-23T19:41:19.148679+00:00
+SKU-AUT-0373,Premium Car Charger,VitalLife,Automotive,65.48,,3.2,out_of_stock,https://scrapingsandbox.com/product/373,2026-11-23T19:41:19.148693+00:00
+SKU-ELE-0374,Classic Wireless Earbuds,SoundWave,Electronics,120.91,,3.1,in_stock,https://scrapingsandbox.com/product/374,2026-11-23T19:41:19.148707+00:00
+SKU-OFF-0375,Heavy-Duty Desk Organizer,GlowUp,Office Supplies,190.99,,3,in_stock,https://scrapingsandbox.com/product/375,2026-11-23T19:41:19.148721+00:00
+SKU-MUS-0376,Handcrafted Vinyl Record,CozyCorner,Music,163.48,225.33,5,in_stock,https://scrapingsandbox.com/product/376,2026-11-23T19:41:19.148736+00:00
+SKU-MUS-0377,Heavy-Duty Microphone,FitPro,Music,7.77,,3.1,out_of_stock,https://scrapingsandbox.com/product/377,2026-11-23T19:41:19.148891+00:00
+SKU-FOO-0378,Heavy-Duty Trail Mix,SoundWave,Food & Beverage,105.04,152.50,3,in_stock,https://scrapingsandbox.com/product/378,2026-11-23T19:41:19.148927+00:00
+SKU-FOO-0379,Compact Trail Mix,AutoParts Pro,Food & Beverage,203.99,265.92,4.9,in_stock,https://scrapingsandbox.com/product/379,2026-11-23T19:41:19.148954+00:00
+SKU-JEW-0380,Advanced Locket,PawPal,Jewelry,126.47,214.27,4.2,in_stock,https://scrapingsandbox.com/product/380,2026-11-23T19:41:19.149027+00:00
+SKU-PET-0381,Eco-Friendly Pet Shampoo,DeskMate,Pet Supplies,16.99,,4.6,in_stock,https://scrapingsandbox.com/product/381,2026-11-23T19:41:19.149042+00:00
+SKU-CLO-0382,Essential Scarf,TasteBud,Clothing,68.02,115.30,3.8,in_stock,https://scrapingsandbox.com/product/382,2026-11-23T19:41:19.149058+00:00
+SKU-MUS-0383,Smart Drum Sticks,ArtisanHub,Music,88.35,,5,in_stock,https://scrapingsandbox.com/product/383,2026-11-23T19:41:19.149074+00:00
+SKU-HOM-0384,Lightweight Doormat,GlowUp,Home & Garden,96.60,,4.3,in_stock,https://scrapingsandbox.com/product/384,2026-11-23T19:41:19.149088+00:00
+SKU-TOY-0385,Vintage Slime Kit,UrbanThread,Toys,170.43,256.01,3.7,in_stock,https://scrapingsandbox.com/product/385,2026-11-23T19:41:19.149103+00:00
+SKU-ELE-0386,Modern SSD Drive,MindBooks,Electronics,90.96,127.50,3.3,out_of_stock,https://scrapingsandbox.com/product/386,2026-11-23T19:41:19.149119+00:00
+SKU-SPO-0387,Modern Gym Bag,VitalLife,Sports,182.10,,3.8,out_of_stock,https://scrapingsandbox.com/product/387,2026-11-23T19:41:19.149133+00:00
+SKU-PET-0388,Advanced Dog Food,ProGear,Pet Supplies,146.34,234.93,3.9,in_stock,https://scrapingsandbox.com/product/388,2026-11-23T19:41:19.149147+00:00
+SKU-BOO-0389,Compact Sci-Fi Novel,TechVault,Books,81.95,,4.5,out_of_stock,https://scrapingsandbox.com/product/389,2026-11-23T19:41:19.149162+00:00
+SKU-PET-0390,Limited Edition Grooming Brush,TasteBud,Pet Supplies,187.72,,4.7,out_of_stock,https://scrapingsandbox.com/product/390,2026-11-23T19:41:19.149175+00:00
+SKU-ART-0391,Premium Pastel Set,TechVault,Art,176.68,,4.8,in_stock,https://scrapingsandbox.com/product/391,2026-11-23T19:41:19.149190+00:00
+SKU-ELE-0392,Handcrafted Gaming Mouse,TechVault,Electronics,191.69,249.61,4.3,in_stock,https://scrapingsandbox.com/product/392,2026-11-23T19:41:19.149204+00:00
+SKU-HEA-0393,Heavy-Duty Collagen Powder,FitPro,Health,126.07,160.93,4.2,in_stock,https://scrapingsandbox.com/product/393,2026-11-23T19:41:19.149219+00:00
+SKU-PET-0394,Deluxe Catnip,PageTurner,Pet Supplies,95.29,,3.9,in_stock,https://scrapingsandbox.com/product/394,2026-11-23T19:41:19.149233+00:00
+SKU-HEA-0395,Advanced Zinc Tablets,PageTurner,Health,57.79,84.45,3,in_stock,https://scrapingsandbox.com/product/395,2026-11-23T19:41:19.149248+00:00
+SKU-FOO-0396,Professional Popcorn Pack,ArtisanHub,Food & Beverage,52.95,,4.1,in_stock,https://scrapingsandbox.com/product/396,2026-11-23T19:41:19.149263+00:00
+SKU-CLO-0397,Pro Denim Jacket,ArtisanHub,Clothing,148.24,,4.7,in_stock,https://scrapingsandbox.com/product/397,2026-11-23T19:41:19.149278+00:00
+SKU-CLO-0398,Lightweight Beanie,PlayZone,Clothing,98.10,131.38,3.4,in_stock,https://scrapingsandbox.com/product/398,2026-11-23T19:41:19.149292+00:00
+SKU-OFF-0399,Handcrafted Notebook,DeskMate,Office Supplies,164.89,228.44,3.9,in_stock,https://scrapingsandbox.com/product/399,2026-11-23T19:41:19.149308+00:00
+SKU-ELE-0400,Limited Edition Bluetooth Speaker,ArtisanHub,Electronics,20.98,,3.5,in_stock,https://scrapingsandbox.com/product/400,2026-11-23T19:41:19.149323+00:00
+SKU-CLO-0401,Professional Flannel Shirt,NovaTech,Clothing,171.02,216.25,4.7,in_stock,https://scrapingsandbox.com/product/401,2026-11-23T19:41:19.149338+00:00
+SKU-TOY-0402,Vintage Marble Run,ArtisanHub,Toys,21.51,,4.1,in_stock,https://scrapingsandbox.com/product/402,2026-11-23T19:41:19.149353+00:00
+SKU-BOO-0403,Pro Self-Help Guide,NovaTech,Books,43.95,53.98,4,out_of_stock,https://scrapingsandbox.com/product/403,2026-11-23T19:41:19.149367+00:00
+SKU-OFF-0404,Limited Edition Calculator,SparkleBox,Office Supplies,47.37,64.94,5,out_of_stock,https://scrapingsandbox.com/product/404,2026-11-23T19:41:19.149382+00:00
+SKU-FOO-0405,Compact Popcorn Pack,SparkleBox,Food & Beverage,168.65,,3.2,in_stock,https://scrapingsandbox.com/product/405,2026-11-23T19:41:19.149396+00:00
+SKU-BEA-0406,Handcrafted Conditioner,AutoParts Pro,Beauty,76.63,104.01,4.8,in_stock,https://scrapingsandbox.com/product/406,2026-11-23T19:41:19.149412+00:00
+SKU-PET-0407,Ultra Cat Tree,VitalLife,Pet Supplies,15.10,23.70,3,in_stock,https://scrapingsandbox.com/product/407,2026-11-23T19:41:19.149426+00:00
+SKU-FOO-0408,Organic Hot Sauce,TasteBud,Food & Beverage,139.44,,4.8,in_stock,https://scrapingsandbox.com/product/408,2026-11-23T19:41:19.149441+00:00
+SKU-PET-0409,Compact Litter Box,DeskMate,Pet Supplies,101.33,,3.5,in_stock,https://scrapingsandbox.com/product/409,2026-11-23T19:41:19.149455+00:00
+SKU-SPO-0410,Wireless Sweatband,PlayZone,Sports,16.35,,3.4,in_stock,https://scrapingsandbox.com/product/410,2026-11-23T19:41:19.149469+00:00
+SKU-ART-0411,Lightweight Sketchbook,NovaTech,Art,116.88,,4.7,in_stock,https://scrapingsandbox.com/product/411,2026-11-23T19:41:19.149484+00:00
+SKU-ART-0412,Portable Art Portfolio,TasteBud,Art,181.73,,4.5,in_stock,https://scrapingsandbox.com/product/412,2026-11-23T19:41:19.149498+00:00
+SKU-FOO-0413,Smart Hot Sauce,NovaTech,Food & Beverage,203.21,330.47,4.1,in_stock,https://scrapingsandbox.com/product/413,2026-11-23T19:41:19.149513+00:00
+SKU-AUT-0414,Limited Edition Dash Cam,TasteBud,Automotive,124.89,,4.6,out_of_stock,https://scrapingsandbox.com/product/414,2026-11-23T19:41:19.149528+00:00
+SKU-BEA-0415,Portable Exfoliator,ProGear,Beauty,112.25,,4.8,in_stock,https://scrapingsandbox.com/product/415,2026-11-23T19:41:19.149542+00:00
+SKU-HEA-0416,Vintage Scale,AutoParts Pro,Health,152.49,,3.5,in_stock,https://scrapingsandbox.com/product/416,2026-11-23T19:41:19.149556+00:00
+SKU-ELE-0417,Lightweight Webcam,DeskMate,Electronics,171.45,282.26,4.6,in_stock,https://scrapingsandbox.com/product/417,2026-11-23T19:41:19.149571+00:00
+SKU-HOM-0418,Vintage Towel Set,ArtisanHub,Home & Garden,121.47,,3.6,in_stock,https://scrapingsandbox.com/product/418,2026-11-23T19:41:19.149586+00:00
+SKU-PET-0419,Ultra Pet Carrier,PawPal,Pet Supplies,25.22,,3.5,in_stock,https://scrapingsandbox.com/product/419,2026-11-23T19:41:19.149599+00:00
+SKU-SPO-0420,Heavy-Duty Dumbbell Set,ArtisanHub,Sports,78.71,,4.8,in_stock,https://scrapingsandbox.com/product/420,2026-11-23T19:41:19.149614+00:00
+SKU-MUS-0421,Modern Synthesizer Patch,PageTurner,Music,43.21,61.19,3.9,out_of_stock,https://scrapingsandbox.com/product/421,2026-11-23T19:41:19.149629+00:00
+SKU-MUS-0422,Pro Music Stand,PawPal,Music,156.18,263.20,3.4,in_stock,https://scrapingsandbox.com/product/422,2026-11-23T19:41:19.149645+00:00
+SKU-AUT-0423,Portable Floor Mat,PageTurner,Automotive,130.90,220.86,3.2,in_stock,https://scrapingsandbox.com/product/423,2026-11-23T19:41:19.149659+00:00
+SKU-AUT-0424,Modern Car Charger,TechVault,Automotive,59.51,80.02,3.2,in_stock,https://scrapingsandbox.com/product/424,2026-11-23T19:41:19.149674+00:00
+SKU-PET-0425,Limited Edition Cat Tree,VitalLife,Pet Supplies,15.00,18.80,4.4,in_stock,https://scrapingsandbox.com/product/425,2026-11-23T19:41:19.149690+00:00
+SKU-FOO-0426,Advanced Pasta Set,NovaTech,Food & Beverage,182.57,,3.5,out_of_stock,https://scrapingsandbox.com/product/426,2026-11-23T19:41:19.149704+00:00
+SKU-SPO-0427,Vintage Tennis Balls,StyleCraft,Sports,195.69,329.49,3.3,in_stock,https://scrapingsandbox.com/product/427,2026-11-23T19:41:19.149719+00:00
+SKU-ART-0428,Vintage Brush Kit,ArtisanHub,Art,79.20,,3.8,out_of_stock,https://scrapingsandbox.com/product/428,2026-11-23T19:41:19.149733+00:00
+SKU-SPO-0429,Handcrafted Skipping Rope,PawPal,Sports,170.80,,4.6,in_stock,https://scrapingsandbox.com/product/429,2026-11-23T19:41:19.149841+00:00
+SKU-SPO-0430,Eco-Friendly Tennis Balls,GlowUp,Sports,49.39,65.75,3.5,in_stock,https://scrapingsandbox.com/product/430,2026-11-23T19:41:19.149871+00:00
+SKU-ELE-0431,Classic LED Desk Lamp,MindBooks,Electronics,104.95,,4.7,in_stock,https://scrapingsandbox.com/product/431,2026-11-23T19:41:19.149888+00:00
+SKU-ART-0432,Professional Paint Set,NovaTech,Art,146.73,248.19,3.6,in_stock,https://scrapingsandbox.com/product/432,2026-11-23T19:41:19.149904+00:00
+SKU-JEW-0433,Lightweight Chain,PageTurner,Jewelry,8.63,13.95,3.3,out_of_stock,https://scrapingsandbox.com/product/433,2026-11-23T19:41:19.149919+00:00
+SKU-BEA-0434,Organic Face Serum,SoundWave,Beauty,104.40,,4.6,in_stock,https://scrapingsandbox.com/product/434,2026-11-23T19:41:19.149934+00:00
+SKU-OFF-0435,Limited Edition Label Maker,PlayZone,Office Supplies,91.83,150.94,3.1,in_stock,https://scrapingsandbox.com/product/435,2026-11-23T19:41:19.149949+00:00
+SKU-HOM-0436,Heavy-Duty Coaster Set,PlayZone,Home & Garden,148.85,,4.5,in_stock,https://scrapingsandbox.com/product/436,2026-11-23T19:41:19.149964+00:00
+SKU-OFF-0437,Smart Pen Set,CozyCorner,Office Supplies,114.75,173.87,3.6,in_stock,https://scrapingsandbox.com/product/437,2026-11-23T19:41:19.149979+00:00
+SKU-CLO-0438,Portable Hoodie,UrbanThread,Clothing,189.43,,4.2,in_stock,https://scrapingsandbox.com/product/438,2026-11-23T19:41:19.149993+00:00
+SKU-BOO-0439,Portable Coloring Book,PlayZone,Books,92.44,,4.7,out_of_stock,https://scrapingsandbox.com/product/439,2026-11-23T19:41:19.150007+00:00
+SKU-CLO-0440,Lightweight Sunglasses,TasteBud,Clothing,13.69,19.55,4.8,in_stock,https://scrapingsandbox.com/product/440,2026-11-23T19:41:19.150023+00:00
+SKU-JEW-0441,Compact Hair Pin,TasteBud,Jewelry,24.18,,3.4,in_stock,https://scrapingsandbox.com/product/441,2026-11-23T19:41:19.150037+00:00
+SKU-ELE-0442,Eco-Friendly SSD Drive,ProGear,Electronics,37.34,,3.2,out_of_stock,https://scrapingsandbox.com/product/442,2026-11-23T19:41:19.150051+00:00
+SKU-OFF-0443,Professional Whiteboard,SoundWave,Office Supplies,38.11,,4.8,in_stock,https://scrapingsandbox.com/product/443,2026-11-23T19:41:19.150065+00:00
+SKU-SPO-0444,Classic Skipping Rope,TasteBud,Sports,80.22,,3.3,in_stock,https://scrapingsandbox.com/product/444,2026-11-23T19:41:19.150079+00:00
+SKU-TOY-0445,Pro Dollhouse,SoundWave,Toys,12.00,,4,in_stock,https://scrapingsandbox.com/product/445,2026-11-23T19:41:19.150093+00:00
+SKU-JEW-0446,Limited Edition Pendant,CozyCorner,Jewelry,98.13,148.50,4.4,in_stock,https://scrapingsandbox.com/product/446,2026-11-23T19:41:19.150108+00:00
+SKU-OFF-0447,Advanced Correction Tape,VitalLife,Office Supplies,39.66,,4,in_stock,https://scrapingsandbox.com/product/447,2026-11-23T19:41:19.150123+00:00
+SKU-ELE-0448,Advanced Screen Protector,PawPal,Electronics,186.81,,4.3,in_stock,https://scrapingsandbox.com/product/448,2026-11-23T19:41:19.150137+00:00
+SKU-AUT-0449,Compact Spark Plug,StyleCraft,Automotive,108.04,,4.5,out_of_stock,https://scrapingsandbox.com/product/449,2026-11-23T19:41:19.150152+00:00
+SKU-AUT-0450,Limited Edition Floor Mat,CozyCorner,Automotive,127.16,,3.2,in_stock,https://scrapingsandbox.com/product/450,2026-11-23T19:41:19.150166+00:00
+SKU-CLO-0451,Pro Hoodie,UrbanThread,Clothing,72.15,,4.9,in_stock,https://scrapingsandbox.com/product/451,2026-11-23T19:41:19.150180+00:00
+SKU-SPO-0452,Portable Ab Wheel,UrbanThread,Sports,65.37,,4.7,out_of_stock,https://scrapingsandbox.com/product/452,2026-11-23T19:41:19.150195+00:00
+SKU-AUT-0453,Pro Ice Scraper,StyleCraft,Automotive,76.87,,4.7,in_stock,https://scrapingsandbox.com/product/453,2026-11-23T19:41:19.150210+00:00
+SKU-ELE-0454,Handcrafted SSD Drive,VitalLife,Electronics,142.86,198.79,3.6,in_stock,https://scrapingsandbox.com/product/454,2026-11-23T19:41:19.150225+00:00
+SKU-FOO-0455,Classic Tea Collection,HomeNest,Food & Beverage,130.90,,3.1,in_stock,https://scrapingsandbox.com/product/455,2026-11-23T19:41:19.150239+00:00
+SKU-AUT-0456,Essential Floor Mat,TasteBud,Automotive,129.18,193.27,3.3,in_stock,https://scrapingsandbox.com/product/456,2026-11-23T19:41:19.150254+00:00
+SKU-TOY-0457,Compact Board Game,PageTurner,Toys,102.16,,4.6,in_stock,https://scrapingsandbox.com/product/457,2026-11-23T19:41:19.150268+00:00
+SKU-MUS-0458,Premium Guitar Strings,DeskMate,Music,166.64,266.95,4.8,in_stock,https://scrapingsandbox.com/product/458,2026-11-23T19:41:19.150284+00:00
+SKU-FOO-0459,Compact Olive Oil,ProGear,Food & Beverage,188.11,,4.8,in_stock,https://scrapingsandbox.com/product/459,2026-11-23T19:41:19.150298+00:00
+SKU-ART-0460,Handcrafted Paint Set,PageTurner,Art,30.30,,4.4,in_stock,https://scrapingsandbox.com/product/460,2026-11-23T19:41:19.150312+00:00
+SKU-JEW-0461,Vintage Cufflinks,HomeNest,Jewelry,175.08,255.69,4.3,in_stock,https://scrapingsandbox.com/product/461,2026-11-23T19:41:19.150327+00:00
+SKU-HOM-0462,Ultra Clock,TechVault,Home & Garden,150.28,204.96,3.7,in_stock,https://scrapingsandbox.com/product/462,2026-11-23T19:41:19.150341+00:00
+SKU-FOO-0463,Vintage Coconut Water,PageTurner,Food & Beverage,185.58,,4.7,in_stock,https://scrapingsandbox.com/product/463,2026-11-23T19:41:19.150356+00:00
+SKU-MUS-0464,Smart Pop Filter,VitalLife,Music,136.32,197.59,4.4,out_of_stock,https://scrapingsandbox.com/product/464,2026-11-23T19:41:19.150371+00:00
+SKU-ART-0465,Portable Calligraphy Set,TasteBud,Art,49.68,,3.8,in_stock,https://scrapingsandbox.com/product/465,2026-11-23T19:41:19.150386+00:00
+SKU-ART-0466,Essential Stencil Set,FitPro,Art,72.64,,4.4,out_of_stock,https://scrapingsandbox.com/product/466,2026-11-23T19:41:19.150401+00:00
+SKU-JEW-0467,Ultra Locket,VitalLife,Jewelry,132.16,196.07,3.5,in_stock,https://scrapingsandbox.com/product/467,2026-11-23T19:41:19.150416+00:00
+SKU-ART-0468,Premium Stencil Set,StyleCraft,Art,15.32,23.65,4.2,out_of_stock,https://scrapingsandbox.com/product/468,2026-11-23T19:41:19.150431+00:00
+SKU-JEW-0469,Eco-Friendly Charm,ArtisanHub,Jewelry,34.87,,4.4,in_stock,https://scrapingsandbox.com/product/469,2026-11-23T19:41:19.150446+00:00
+SKU-ELE-0470,Lightweight Laptop Sleeve,PageTurner,Electronics,72.93,,3.7,in_stock,https://scrapingsandbox.com/product/470,2026-11-23T19:41:19.150461+00:00
+SKU-AUT-0471,Compact Ice Scraper,TechVault,Automotive,29.03,,4.8,out_of_stock,https://scrapingsandbox.com/product/471,2026-11-23T19:41:19.150475+00:00
+SKU-HOM-0472,Eco-Friendly Picture Frame,TasteBud,Home & Garden,59.95,,3.4,out_of_stock,https://scrapingsandbox.com/product/472,2026-11-23T19:41:19.150491+00:00
+SKU-HEA-0473,Lightweight Massage Gun,SoundWave,Health,152.52,241.16,3.2,in_stock,https://scrapingsandbox.com/product/473,2026-11-23T19:41:19.150506+00:00
+SKU-HEA-0474,Handcrafted Zinc Tablets,TechVault,Health,155.69,214.56,4.5,in_stock,https://scrapingsandbox.com/product/474,2026-11-23T19:41:19.150522+00:00
+SKU-ART-0475,Eco-Friendly Fixative Spray,AutoParts Pro,Art,199.19,257.28,3.7,in_stock,https://scrapingsandbox.com/product/475,2026-11-23T19:41:19.150538+00:00
+SKU-TOY-0476,Wireless Science Kit,AutoParts Pro,Toys,18.39,,4.3,in_stock,https://scrapingsandbox.com/product/476,2026-11-23T19:41:19.150552+00:00
+SKU-CLO-0477,Organic Polo Shirt,PageTurner,Clothing,30.02,,3.7,in_stock,https://scrapingsandbox.com/product/477,2026-11-23T19:41:19.150567+00:00
+SKU-SPO-0478,Compact Gym Bag,AutoParts Pro,Sports,13.39,,3.4,in_stock,https://scrapingsandbox.com/product/478,2026-11-23T19:41:19.150581+00:00
+SKU-HOM-0479,Portable Throw Pillow,CozyCorner,Home & Garden,65.29,106.93,3.4,in_stock,https://scrapingsandbox.com/product/479,2026-11-23T19:41:19.150596+00:00
+SKU-OFF-0480,Pro Highlighters,HomeNest,Office Supplies,151.15,,4.3,in_stock,https://scrapingsandbox.com/product/480,2026-11-23T19:41:19.150610+00:00
+SKU-TOY-0481,Premium Action Figure,SoundWave,Toys,116.38,,4.5,in_stock,https://scrapingsandbox.com/product/481,2026-11-23T19:41:19.150624+00:00
+SKU-BEA-0482,Pro Exfoliator,CozyCorner,Beauty,155.35,,3.9,in_stock,https://scrapingsandbox.com/product/482,2026-11-23T19:41:19.150638+00:00
+SKU-HOM-0483,Lightweight Throw Pillow,AutoParts Pro,Home & Garden,170.73,253.01,4.6,out_of_stock,https://scrapingsandbox.com/product/483,2026-11-23T19:41:19.150653+00:00
+SKU-SPO-0484,Organic Ab Wheel,NovaTech,Sports,35.29,56.31,3.8,in_stock,https://scrapingsandbox.com/product/484,2026-11-23T19:41:19.150667+00:00
+SKU-MUS-0485,Professional Synthesizer Patch,NovaTech,Music,73.54,,3.4,in_stock,https://scrapingsandbox.com/product/485,2026-11-23T19:41:19.150682+00:00
+SKU-ELE-0486,Smart Monitor Stand,MindBooks,Electronics,80.41,,3.4,in_stock,https://scrapingsandbox.com/product/486,2026-11-23T19:41:19.150696+00:00
+SKU-ELE-0487,Classic USB-C Hub,GlowUp,Electronics,69.30,,4,in_stock,https://scrapingsandbox.com/product/487,2026-11-23T19:41:19.150711+00:00
+SKU-CLO-0488,Heavy-Duty Beanie,NovaTech,Clothing,121.62,,3.2,in_stock,https://scrapingsandbox.com/product/488,2026-11-23T19:41:19.150728+00:00
+SKU-HEA-0489,Portable Essential Oil,SoundWave,Health,13.89,,4.6,in_stock,https://scrapingsandbox.com/product/489,2026-11-23T19:41:19.150791+00:00
+SKU-CLO-0490,Ultra Beanie,CozyCorner,Clothing,52.43,72.28,3.5,in_stock,https://scrapingsandbox.com/product/490,2026-11-23T19:41:19.150822+00:00
+SKU-SPO-0491,Premium Fitness Tracker,DeskMate,Sports,122.51,190.53,3.9,out_of_stock,https://scrapingsandbox.com/product/491,2026-11-23T19:41:19.150839+00:00
+SKU-FOO-0492,Smart Tea Collection,PawPal,Food & Beverage,113.75,,3.7,out_of_stock,https://scrapingsandbox.com/product/492,2026-11-23T19:41:19.150854+00:00
+SKU-JEW-0493,Pro Pendant,PlayZone,Jewelry,178.56,245.20,4.3,in_stock,https://scrapingsandbox.com/product/493,2026-11-23T19:41:19.150870+00:00
+SKU-BEA-0494,Essential Hair Oil,ArtisanHub,Beauty,188.87,,3.2,out_of_stock,https://scrapingsandbox.com/product/494,2026-11-23T19:41:19.150885+00:00
+SKU-FOO-0495,Wireless Granola,UrbanThread,Food & Beverage,13.31,,4.9,out_of_stock,https://scrapingsandbox.com/product/495,2026-11-23T19:41:19.150900+00:00
+SKU-BOO-0496,Advanced Mystery Novel,CozyCorner,Books,9.72,11.95,3.1,in_stock,https://scrapingsandbox.com/product/496,2026-11-23T19:41:19.150915+00:00
+SKU-PET-0497,Vintage Cat Toy,HomeNest,Pet Supplies,99.70,,4.8,in_stock,https://scrapingsandbox.com/product/497,2026-11-23T19:41:19.150930+00:00
+SKU-HOM-0498,Compact Clock,HomeNest,Home & Garden,67.89,,4.9,in_stock,https://scrapingsandbox.com/product/498,2026-11-23T19:41:19.150945+00:00
+SKU-SPO-0499,Heavy-Duty Gym Bag,TechVault,Sports,63.70,,4.8,in_stock,https://scrapingsandbox.com/product/499,2026-11-23T19:41:19.150959+00:00
+SKU-PET-0500,Classic Grooming Brush,MindBooks,Pet Supplies,59.07,,4.6,in_stock,https://scrapingsandbox.com/product/500,2026-11-23T19:41:19.150973+00:00
